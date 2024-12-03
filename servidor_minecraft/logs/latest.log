@@ -1,129 +1,644 @@
-[03Dec2024 02:59:29.200] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[03Dec2024 02:59:29.204] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[03Dec2024 02:59:29.311] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-msx-1.19.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[03Dec2024 02:59:29.348] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/server-msx-1.19.2/servidor_minecraft/config/fml.toml is not correct. Correcting
-[03Dec2024 02:59:29.355] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
-[03Dec2024 02:59:29.570] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[03Dec2024 02:59:29.572] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[03Dec2024 02:59:29.573] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[03Dec2024 02:59:29.575] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[03Dec2024 02:59:29.667] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[03Dec2024 02:59:30.977] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[03Dec2024 02:59:34.790] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[03Dec2024 02:59:36.570] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[03Dec2024 02:59:36.572] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[03Dec2024 02:59:37.061] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-msx-1.19.2/servidor_minecraft/config/forge-common.toml is not correct. Correcting
-[03Dec2024 02:59:37.066] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Dec2024 02:59:37.067] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.cachePackAccess was corrected from null to its default, true. 
-[03Dec2024 02:59:37.068] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.indexVanillaPackCachesOnThread was corrected from null to its default, false. 
-[03Dec2024 02:59:37.068] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.indexModPackCachesOnThread was corrected from null to its default, false. 
-[03Dec2024 02:59:37.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Dec2024 02:59:37.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
-[03Dec2024 02:59:38.876] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Dec2024 02:59:38.904] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%2399!/assets/.mcassetsroot' uses unexpected schema
-[03Dec2024 02:59:38.905] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%2399!/data/.mcassetsroot' uses unexpected schema
-[03Dec2024 02:59:41.334] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[03Dec2024 02:59:41.827] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
-[03Dec2024 02:59:42.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[03Dec2024 02:59:42.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Dec2024 02:59:42.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Dec2024 02:59:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Dec2024 02:59:42.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Dec2024 02:59:42.422] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Dec2024 02:59:42.542] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Dec2024 02:59:42.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Dec2024 02:59:42.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Dec2024 02:59:42.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Dec2024 02:59:42.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[03Dec2024 02:59:42.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Dec2024 02:59:42.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[03Dec2024 02:59:42.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[03Dec2024 02:59:42.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[03Dec2024 02:59:42.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[03Dec2024 02:59:42.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[03Dec2024 02:59:42.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
-[03Dec2024 02:59:42.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[03Dec2024 02:59:42.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Dec2024 02:59:58.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Dec2024 02:59:59.695] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 02:59:59.716] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 02:59:59.718] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 03:00:00.252] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 03:00:00.691] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 03:00:01.198] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 03:00:01.715] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 03:00:02.201] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[03Dec2024 03:00:02.694] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[03Dec2024 03:00:03.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[03Dec2024 03:00:03.696] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[03Dec2024 03:00:04.199] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[03Dec2024 03:00:04.715] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[03Dec2024 03:00:05.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[03Dec2024 03:00:05.705] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[03Dec2024 03:00:06.192] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[03Dec2024 03:00:06.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[03Dec2024 03:00:07.207] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[03Dec2024 03:00:07.693] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[03Dec2024 03:00:08.204] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[03Dec2024 03:00:08.693] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
-[03Dec2024 03:00:09.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[03Dec2024 03:00:09.693] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[03Dec2024 03:00:10.230] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[03Dec2024 03:00:10.701] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[03Dec2024 03:00:11.197] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[03Dec2024 03:00:11.695] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[03Dec2024 03:00:12.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[03Dec2024 03:00:12.704] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[03Dec2024 03:00:13.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
-[03Dec2024 03:00:13.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[03Dec2024 03:00:14.195] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[03Dec2024 03:00:14.695] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[03Dec2024 03:00:15.194] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[03Dec2024 03:00:15.702] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[03Dec2024 03:00:16.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[03Dec2024 03:00:16.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[03Dec2024 03:00:17.197] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[03Dec2024 03:00:17.692] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[03Dec2024 03:00:18.192] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
-[03Dec2024 03:00:18.713] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[03Dec2024 03:00:19.194] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[03Dec2024 03:00:19.693] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[03Dec2024 03:00:20.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
-[03Dec2024 03:00:20.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[03Dec2024 03:00:21.196] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[03Dec2024 03:00:21.717] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[03Dec2024 03:00:22.196] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[03Dec2024 03:00:22.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
-[03Dec2024 03:00:23.198] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[03Dec2024 03:00:23.696] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[03Dec2024 03:00:24.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[03Dec2024 03:00:24.692] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[03Dec2024 03:00:25.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[03Dec2024 03:00:25.699] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[03Dec2024 03:00:26.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[03Dec2024 03:00:26.724] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[03Dec2024 03:00:27.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[03Dec2024 03:00:27.710] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[03Dec2024 03:00:28.194] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[03Dec2024 03:00:28.694] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[03Dec2024 03:00:29.193] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[03Dec2024 03:00:29.698] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[03Dec2024 03:00:30.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[03Dec2024 03:00:30.700] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
-[03Dec2024 03:00:31.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
-[03Dec2024 03:00:31.703] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[03Dec2024 03:00:32.193] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
-[03Dec2024 03:00:32.280] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 33590 ms
-[03Dec2024 03:00:32.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (49.717s)! For help, type "help"
-[03Dec2024 03:00:32.289] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Dec2024 03:13:25.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[03Dec2024 03:13:26.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Dec2024 03:13:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Dec2024 03:13:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Dec2024 03:13:27.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Dec2024 03:13:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Dec2024 03:13:28.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Dec2024 03:13:28.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Dec2024 03:13:28.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Dec2024 03:13:28.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Dec2024 03:13:28.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Dec2024 03:21:05.995] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[03Dec2024 03:21:05.999] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Dec2024 03:21:06.908] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[03Dec2024 03:21:06.952] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-msx-1.19.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[03Dec2024 03:21:07.464] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 03:21:07.465] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 03:21:07.466] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 03:21:07.467] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-msx-1.19.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 03:21:07.650] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03Dec2024 03:21:07.652] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[03Dec2024 03:21:10.896] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Dec2024 03:21:11.168] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[03Dec2024 03:21:11.261] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[03Dec2024 03:21:11.263] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[03Dec2024 03:21:11.265] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Dec2024 03:21:11.285] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.287] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.396] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.19.2: 87 options available, 0 override(s) found
+[03Dec2024 03:21:11.398] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[03Dec2024 03:21:11.416] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03Dec2024 03:21:11.432] [main/WARN] [mixin/]: Reference map 'dustydecorations.refmap.json' for dustydecorations.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.441] [main/WARN] [mixin/]: Reference map 'Bakery-forge-refmap.json' for bakery.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.458] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 161 options available, 0 override(s) found
+[03Dec2024 03:21:11.466] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.508] [main/WARN] [mixin/]: Reference map 'brrp-forge-forge-refmap.json' for brrp-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.526] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.543] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.548] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Mod
+[03Dec2024 03:21:11.552] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Loader
+[03Dec2024 03:21:11.569] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.588] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 03:21:11.598] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting malte0811/ferritecore/mixin/config/FerriteMixinConfig$LithiumSupportState
+[03Dec2024 03:21:11.641] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/llamalad7/mixinextras/service/MixinExtrasVersion
+[03Dec2024 03:21:12.269] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 03:21:12.290] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 03:21:12.785] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
+[03Dec2024 03:21:12.787] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:accessors.brewinandchewin.KegBlockEntityAccessor
+[03Dec2024 03:21:12.788] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[03Dec2024 03:21:12.789] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:accessors.farmersrespite.KettleBlockEntityAccessor
+[03Dec2024 03:21:12.790] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/supplementaries/common/block/faucet/FaucetBehaviorsManager (java.lang.ClassNotFoundException: net.mehvahdjukaar.supplementaries.common.block.faucet.FaucetBehaviorsManager)
+[03Dec2024 03:21:12.791] [main/WARN] [mixin/]: @Mixin target net.mehvahdjukaar.supplementaries.common.block.faucet.FaucetBehaviorsManager was not found thirst.mixin.json:accessors.supplementaries.FaucetBehaviorsManagerAccessor
+[03Dec2024 03:21:12.792] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
+[03Dec2024 03:21:12.792] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:brewinandchewin.MixinKegBlockEntity
+[03Dec2024 03:21:12.793] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/processing/basin/BasinRecipe (java.lang.ClassNotFoundException: com.simibubi.create.content.processing.basin.BasinRecipe)
+[03Dec2024 03:21:12.796] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.processing.basin.BasinRecipe was not found thirst.mixin.json:create.MixinBasinRecipe
+[03Dec2024 03:21:12.809] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[03Dec2024 03:21:12.810] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.spout.FillingBySpout was not found thirst.mixin.json:create.MixinFillingBySpout
+[03Dec2024 03:21:12.812] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/transfer/FluidDrainingBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.transfer.FluidDrainingBehaviour)
+[03Dec2024 03:21:12.814] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.transfer.FluidDrainingBehaviour was not found thirst.mixin.json:create.MixinFluidDrainingBehaviour
+[03Dec2024 03:21:12.818] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/transfer/GenericItemEmptying (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.transfer.GenericItemEmptying)
+[03Dec2024 03:21:12.819] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.transfer.GenericItemEmptying was not found thirst.mixin.json:create.MixinGenericItemEmptying
+[03Dec2024 03:21:12.821] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/transfer/GenericItemFilling (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.transfer.GenericItemFilling)
+[03Dec2024 03:21:12.821] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.transfer.GenericItemFilling was not found thirst.mixin.json:create.MixinGenericItemFilling
+[03Dec2024 03:21:12.828] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/equipment/goggles/IHaveGoggleInformation (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.goggles.IHaveGoggleInformation)
+[03Dec2024 03:21:12.829] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.equipment.goggles.IHaveGoggleInformation was not found thirst.mixin.json:create.MixinIHaveGoggleInformation
+[03Dec2024 03:21:12.830] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/OpenEndedPipe (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.OpenEndedPipe)
+[03Dec2024 03:21:12.830] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.OpenEndedPipe was not found thirst.mixin.json:create.MixinOpenEndedPipe
+[03Dec2024 03:21:12.832] [main/WARN] [mixin/]: Error loading class: plus/dragons/createcentralkitchen/content/logistics/block/mechanicalArm/KettlePoint (java.lang.ClassNotFoundException: plus.dragons.createcentralkitchen.content.logistics.block.mechanicalArm.KettlePoint)
+[03Dec2024 03:21:12.833] [main/WARN] [mixin/]: @Mixin target plus.dragons.createcentralkitchen.content.logistics.block.mechanicalArm.KettlePoint was not found thirst.mixin.json:createcenterkitchen.MixinKettlePoint
+[03Dec2024 03:21:12.834] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/KettleBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.KettleBlock)
+[03Dec2024 03:21:12.834] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.KettleBlock was not found thirst.mixin.json:farmersrespite.MixinKettleBlock
+[03Dec2024 03:21:12.835] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[03Dec2024 03:21:12.836] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:farmersrespite.MixinKettleBlockEntity
+[03Dec2024 03:21:12.838] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/supplementaries/common/block/faucet/WaterBlockInteraction (java.lang.ClassNotFoundException: net.mehvahdjukaar.supplementaries.common.block.faucet.WaterBlockInteraction)
+[03Dec2024 03:21:12.840] [main/WARN] [mixin/]: @Mixin target net.mehvahdjukaar.supplementaries.common.block.faucet.WaterBlockInteraction was not found thirst.mixin.json:supplementaries.MixinWaterBlockInteraction
+[03Dec2024 03:21:12.841] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
+[03Dec2024 03:21:12.842] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixin.json:toughasnails.MixinEmptyCanteenItem
+[03Dec2024 03:21:12.843] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ServerConfig (java.lang.ClassNotFoundException: toughasnails.config.ServerConfig)
+[03Dec2024 03:21:12.844] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ServerConfig was not found thirst.mixin.json:toughasnails.MixinServerConfig
+[03Dec2024 03:21:12.845] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
+[03Dec2024 03:21:12.845] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixin.json:toughasnails.MixinThirstHandler
+[03Dec2024 03:21:12.846] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
+[03Dec2024 03:21:12.847] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixin.json:toughasnails.MixinThirstHelperImpl
+[03Dec2024 03:21:12.910] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[03Dec2024 03:21:12.911] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[03Dec2024 03:21:13.121] [main/WARN] [mixin/]: Error loading class: com/mrbysco/spoiled/config/SpoiledConfigCache (java.lang.ClassNotFoundException: com.mrbysco.spoiled.config.SpoiledConfigCache)
+[03Dec2024 03:21:13.121] [main/WARN] [mixin/]: @Mixin target com.mrbysco.spoiled.config.SpoiledConfigCache was not found cold_sweat.mixin.json:compat.MixinSpoiledIcebox$ContainerModifier
+[03Dec2024 03:21:13.379] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[03Dec2024 03:21:13.724] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/datafix/DataFixerOptimizationOption
+[03Dec2024 03:21:13.745] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[03Dec2024 03:21:13.781] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/ChatFormatting
+[03Dec2024 03:21:14.100] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 03:21:14.101] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 03:21:14.193] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.39 s after launch)
+[03Dec2024 03:21:14.251] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/Util$IdentityStrategy
+[03Dec2024 03:21:14.260] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Holder$Reference$Type
+[03Dec2024 03:21:14.328] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Dec2024 03:21:14.328] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Dec2024 03:21:14.471] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[03Dec2024 03:21:14.472] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[03Dec2024 03:21:15.712] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction
+[03Dec2024 03:21:15.715] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction$AxisDirection
+[03Dec2024 03:21:15.716] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction$Axis
+[03Dec2024 03:21:15.751] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/PushReaction
+[03Dec2024 03:21:15.916] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/BlockBehaviour$OffsetType
+[03Dec2024 03:21:15.978] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction$Plane
+[03Dec2024 03:21:15.980] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/FrontAndTop
+[03Dec2024 03:21:15.985] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/AttachFace
+[03Dec2024 03:21:15.986] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/BellAttachType
+[03Dec2024 03:21:15.989] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/WallSide
+[03Dec2024 03:21:15.990] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/RedstoneSide
+[03Dec2024 03:21:15.991] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/DoubleBlockHalf
+[03Dec2024 03:21:15.993] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/Half
+[03Dec2024 03:21:15.993] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/RailShape
+[03Dec2024 03:21:15.996] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/BedPart
+[03Dec2024 03:21:15.997] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/ChestType
+[03Dec2024 03:21:15.998] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/ComparatorMode
+[03Dec2024 03:21:15.999] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/DoorHingeSide
+[03Dec2024 03:21:16.000] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/NoteBlockInstrument
+[03Dec2024 03:21:16.001] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/PistonType
+[03Dec2024 03:21:16.002] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/SlabType
+[03Dec2024 03:21:16.002] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/StairsShape
+[03Dec2024 03:21:16.004] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/StructureMode
+[03Dec2024 03:21:16.004] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/BambooLeaves
+[03Dec2024 03:21:16.005] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/Tilt
+[03Dec2024 03:21:16.006] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/DripstoneThickness
+[03Dec2024 03:21:16.006] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/SculkSensorPhase
+[03Dec2024 03:21:16.107] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1910 milliseconds
+[03Dec2024 03:21:16.161] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkDirection
+[03Dec2024 03:21:16.232] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/DyeColor
+[03Dec2024 03:21:16.319] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/effect/MobEffectCategory
+[03Dec2024 03:21:16.322] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/attributes/AttributeModifier$Operation
+[03Dec2024 03:21:16.457] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/PressurePlateBlock$Sensitivity
+[03Dec2024 03:21:16.624] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/MultifaceSpreader$SpreadType
+[03Dec2024 03:21:16.645] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/InteractionHand
+[03Dec2024 03:21:16.663] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 03:21:16.664] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 03:21:16.666] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/InteractionResult
+[03Dec2024 03:21:16.668] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/biome/Biome$Precipitation
+[03Dec2024 03:21:16.722] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/SkullBlock$Types
+[03Dec2024 03:21:16.980] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/WeatheringCopper$WeatherState
+[03Dec2024 03:21:17.031] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Holder$Kind
+[03Dec2024 03:21:17.128] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/Heightmap$Types
+[03Dec2024 03:21:17.129] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/Heightmap$Usage
+[03Dec2024 03:21:17.164] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/placement/CaveSurface
+[03Dec2024 03:21:17.214] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MobCategory
+[03Dec2024 03:21:17.427] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/Goal$Flag
+[03Dec2024 03:21:17.663] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Pose
+[03Dec2024 03:21:17.751] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkg000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Dec2024 03:21:18.114] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/GenerationStep$Carving
+[03Dec2024 03:21:18.158] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureSpawnOverride$BoundingBoxType
+[03Dec2024 03:21:18.166] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/GenerationStep$Decoration
+[03Dec2024 03:21:18.168] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/TerrainAdjustment
+[03Dec2024 03:21:18.182] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/pools/StructureTemplatePool$Projection
+[03Dec2024 03:21:18.200] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/MineshaftStructure$Type
+[03Dec2024 03:21:18.218] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/OceanRuinStructure$Type
+[03Dec2024 03:21:18.230] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/JigsawBlockEntity$JointType
+[03Dec2024 03:21:18.244] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece$VerticalPlacement
+[03Dec2024 03:21:18.253] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/placement/StructurePlacement$FrequencyReductionMethod
+[03Dec2024 03:21:18.257] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType
+[03Dec2024 03:21:18.271] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[03Dec2024 03:21:18.281] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/biome/Biome$TemperatureModifier
+[03Dec2024 03:21:18.283] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/biome/BiomeSpecialEffects$GrassColorModifier
+[03Dec2024 03:21:18.341] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$Marker$Type
+[03Dec2024 03:21:18.360] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$Mapped$Type
+[03Dec2024 03:21:18.362] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$MulOrAdd$Type
+[03Dec2024 03:21:18.363] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$TwoArgumentSimpleFunction$Type
+[03Dec2024 03:21:18.389] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$BlendOffset
+[03Dec2024 03:21:18.389] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$BlendAlpha
+[03Dec2024 03:21:18.402] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$WeirdScaledSampler$RarityValueMapper
+[03Dec2024 03:21:18.424] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[03Dec2024 03:21:18.432] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Hole
+[03Dec2024 03:21:18.436] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Steep
+[03Dec2024 03:21:18.446] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Bandlands
+[03Dec2024 03:21:18.447] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Temperature
+[03Dec2024 03:21:18.449] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$AbovePreliminarySurface
+[03Dec2024 03:21:18.835] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/Rarity
+[03Dec2024 03:21:18.842] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/enchantment/EnchantmentCategory
+[03Dec2024 03:21:18.877] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/AbstractMinecart$Type
+[03Dec2024 03:21:18.881] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Type
+[03Dec2024 03:21:18.882] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/ArmorMaterials
+[03Dec2024 03:21:18.886] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/EquipmentSlot
+[03Dec2024 03:21:18.887] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/EquipmentSlot$Type
+[03Dec2024 03:21:18.900] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/Tiers
+[03Dec2024 03:21:18.935] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/ChatTypeDecoration$Parameter
+[03Dec2024 03:21:18.952] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/enchantment/Enchantment$Rarity
+[03Dec2024 03:21:18.952] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/enchantment/ProtectionEnchantment$Type
+[03Dec2024 03:21:18.988] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/criteria/ObjectiveCriteria$RenderType
+[03Dec2024 03:21:19.026] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/ChunkStatus$ChunkType
+[03Dec2024 03:21:19.198] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$BeardifierMarker
+[03Dec2024 03:21:19.453] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/client/gui/SortButtonsPosition
+[03Dec2024 03:21:19.475] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.TagsFeature
+[03Dec2024 03:21:19.480] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MobSpawnType
+[03Dec2024 03:21:19.498] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/Commands$CommandSelection
+[03Dec2024 03:21:19.497] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Phase
+[03Dec2024 03:21:19.499] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Type
+[03Dec2024 03:21:19.502] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.FixFeature
+[03Dec2024 03:21:19.510] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.AEC3DFeature
+[03Dec2024 03:21:19.608] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/GameType
+[03Dec2024 03:21:19.693] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/sounds/SoundSource
+[03Dec2024 03:21:19.705] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[03Dec2024 03:21:19.843] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-msx-1.19.2/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[03Dec2024 03:21:19.844] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key raids and illagers was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:19.844] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key raids and illagers.Illagers in raids attack animals? was corrected from null to its default, false. 
+[03Dec2024 03:21:19.845] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key raids and illagers.Witches attack villagers? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.845] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key raids and illagers.Have Illusioners in raids? was corrected from null to its default, false. 
+[03Dec2024 03:21:19.846] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key raids and illagers.Have Illagers have some common sense? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.848] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob ai in general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:19.848] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob ai in general.Guards attack all mobs? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.849] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob ai in general.Mob BlackList was corrected from null to its default, []. 
+[03Dec2024 03:21:19.859] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob ai in general.Mob WhiteList was corrected from null to its default, []. 
+[03Dec2024 03:21:19.861] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager stuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:19.863] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager stuff.Allow armorers and weaponsmiths repair guard items when down below half durability? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.864] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager stuff.Make it so players have to have hero of the village to convert villagers into guards? was corrected from null to its default, false. 
+[03Dec2024 03:21:19.864] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager stuff.Have it so blacksmiths heal golems under 60 health? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.864] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager stuff.Have it so clerics heal guards and players with hero of the village? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.865] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager stuff.Have Villagers have some common sense? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.866] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:19.866] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Chance to drop equipment was corrected from null to its default, 100.0. 
+[03Dec2024 03:21:19.869] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Have Guards have some common sense? was corrected from null to its default, false. 
+[03Dec2024 03:21:19.869] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Have Guards open doors? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.869] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Have Guards raise their shield all the time? was corrected from null to its default, false. 
+[03Dec2024 03:21:19.870] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Have guards form a phalanx? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.870] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Have guards attempt to avoid firing into other friendlies? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.870] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Range was corrected from null to its default, 50.0. 
+[03Dec2024 03:21:19.871] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Guard health regeneration amount was corrected from null to its default, 1.0. 
+[03Dec2024 03:21:19.871] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Allow guard arrows to damage villagers, iron golems, or other guards? The i-frames will still be shown for them but they won't lose any health if this is set to false was corrected from null to its default, true. 
+[03Dec2024 03:21:19.872] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Allow players to give guards stuff only if they have the hero of the village effect? was corrected from null to its default, false. 
+[03Dec2024 03:21:19.873] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Allow players to set guard patrol points only if they have hero of the village was corrected from null to its default, false. 
+[03Dec2024 03:21:19.873] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Minimum reputation requirement for guards to give you access to their inventories was corrected from null to its default, 15. 
+[03Dec2024 03:21:19.873] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Guard health was corrected from null to its default, 20.0. 
+[03Dec2024 03:21:19.874] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Guard speed was corrected from null to its default, 0.5. 
+[03Dec2024 03:21:19.874] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Guard follow range was corrected from null to its default, 20.0. 
+[03Dec2024 03:21:19.875] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.Have guards only follow the player if they have hero of the village? was corrected from null to its default, true. 
+[03Dec2024 03:21:19.875] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/feeding/HungerLevel
+[03Dec2024 03:21:19.875] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key guard stuff.How low of a reputation of a player should have to be instantly aggroed upon by guards and golems? was corrected from null to its default, -100. 
+[03Dec2024 03:21:19.881] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/refill/RefillUpgradeWrapper$TargetSlot
+[03Dec2024 03:21:19.903] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/inception/InventoryOrder
+[03Dec2024 03:21:19.917] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/toolswapper/ToolSwapMode
+[03Dec2024 03:21:19.935] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Fluid
+[03Dec2024 03:21:19.937] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/xppump/AutomationDirection
+[03Dec2024 03:21:20.043] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[03Dec2024 03:21:20.048] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[03Dec2024 03:21:20.050] [modloading-worker-0/INFO] [hordes/]: Hordes data does not exist, generating new files.
+[03Dec2024 03:21:20.055] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/hordes-info.json
+[03Dec2024 03:21:20.063] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/pack.mcmeta
+[03Dec2024 03:21:20.073] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json
+[03Dec2024 03:21:20.073] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/tags/items/infection_cures.json
+[03Dec2024 03:21:20.075] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/tags/entity_types/infection_entities.json
+[03Dec2024 03:21:20.076] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/tables/skeletons.json
+[03Dec2024 03:21:20.077] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/tables/mixed_mobs.json
+[03Dec2024 03:21:20.077] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/tables/illagers.json
+[03Dec2024 03:21:20.078] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/tables/drowned.json
+[03Dec2024 03:21:20.079] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/tables/default.json
+[03Dec2024 03:21:20.080] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/scripts/default.json
+[03Dec2024 03:21:20.083] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/infection_conversions.json
+[03Dec2024 03:21:20.088] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/immunity_items.json
+[03Dec2024 03:21:20.089] [modloading-worker-0/INFO] [hordes/]: Copied file config_defaults/data/hordes/horde_data/immune_wearables.json
+[03Dec2024 03:21:20.093] [modloading-worker-0/INFO] [hordes/]: Generated data files.
+[03Dec2024 03:21:20.088] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/pathfinder/BlockPathTypes
+[03Dec2024 03:21:20.101] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/packs/PackType
+[03Dec2024 03:21:20.221] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-msx-1.19.2/servidor_minecraft/config/k_turrets-common.toml is not correct. Correcting
+[03Dec2024 03:21:20.222] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.222] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.Turret and drone projectile speed was corrected from null to its default, 50.0. 
+[03Dec2024 03:21:20.224] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/capabilities/CapabilityManager
+[03Dec2024 03:21:20.224] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.Target list exceptions was corrected from null to its default, [minecraft:zombified_piglin]. 
+[03Dec2024 03:21:20.228] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.Titanium ore frequency was corrected from null to its default, 9. 
+[03Dec2024 03:21:20.230] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Common.Set ownership automatically was corrected from null to its default, true. 
+[03Dec2024 03:21:20.232] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.233] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Arrow turret was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.234] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Arrow turret.Health was corrected from null to its default, 60.0. 
+[03Dec2024 03:21:20.234] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Arrow turret.Range was corrected from null to its default, 32.0. 
+[03Dec2024 03:21:20.234] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Arrow turret.Armor was corrected from null to its default, 3.0. 
+[03Dec2024 03:21:20.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Arrow turret.Fire rate was corrected from null to its default, 20. 
+[03Dec2024 03:21:20.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Arrow turret.Base damage was corrected from null to its default, 6. 
+[03Dec2024 03:21:20.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret.Health was corrected from null to its default, 60.0. 
+[03Dec2024 03:21:20.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret.Range was corrected from null to its default, 32.0. 
+[03Dec2024 03:21:20.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret.Armor was corrected from null to its default, 3.0. 
+[03Dec2024 03:21:20.237] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret.Fire rate was corrected from null to its default, 20. 
+[03Dec2024 03:21:20.237] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret.Iron bullet damage was corrected from null to its default, 8. 
+[03Dec2024 03:21:20.237] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Bullet turret.Gold bullet damage was corrected from null to its default, 7. 
+[03Dec2024 03:21:20.238] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Fire charge turret was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.240] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Fire charge turret.Health was corrected from null to its default, 60.0. 
+[03Dec2024 03:21:20.240] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Fire charge turret.Range was corrected from null to its default, 32.0. 
+[03Dec2024 03:21:20.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Fire charge turret.Armor was corrected from null to its default, 3.0. 
+[03Dec2024 03:21:20.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Fire charge turret.Fire rate was corrected from null to its default, 20. 
+[03Dec2024 03:21:20.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Fire charge turret.Damage was corrected from null to its default, 6. 
+[03Dec2024 03:21:20.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret.Health was corrected from null to its default, 60.0. 
+[03Dec2024 03:21:20.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret.Range was corrected from null to its default, 32.0. 
+[03Dec2024 03:21:20.243] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret.Armor was corrected from null to its default, 3.0. 
+[03Dec2024 03:21:20.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret.Fire rate was corrected from null to its default, 20. 
+[03Dec2024 03:21:20.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret.Brick damage was corrected from null to its default, 9. 
+[03Dec2024 03:21:20.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Brick turret.Nether brick damage was corrected from null to its default, 10. 
+[03Dec2024 03:21:20.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Gauss turret was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Gauss turret.Health was corrected from null to its default, 60.0. 
+[03Dec2024 03:21:20.248] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Gauss turret.Range was corrected from null to its default, 32.0. 
+[03Dec2024 03:21:20.248] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Gauss turret.Armor was corrected from null to its default, 3.0. 
+[03Dec2024 03:21:20.249] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Gauss turret.Fire rate was corrected from null to its default, 20. 
+[03Dec2024 03:21:20.249] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Gauss turret.Damage was corrected from null to its default, 12. 
+[03Dec2024 03:21:20.249] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Cobble turret was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:20.249] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Cobble turret.Health was corrected from null to its default, 60.0. 
+[03Dec2024 03:21:20.253] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Cobble turret.Range was corrected from null to its default, 32.0. 
+[03Dec2024 03:21:20.253] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Cobble turret.Armor was corrected from null to its default, 3.0. 
+[03Dec2024 03:21:20.253] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Cobble turret.Fire rate was corrected from null to its default, 20. 
+[03Dec2024 03:21:20.254] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Turret stats.Cobble turret.Damage was corrected from null to its default, 3. 
+[03Dec2024 03:21:20.269] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/RecipeBookType
+[03Dec2024 03:21:20.272] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$RemovalReason
+[03Dec2024 03:21:20.272] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MoverType
+[03Dec2024 03:21:20.273] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$MovementEmission
+[03Dec2024 03:21:20.292] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/Rotation
+[03Dec2024 03:21:20.294] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/Mirror
+[03Dec2024 03:21:20.295] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/arguments/EntityAnchorArgument$Anchor
+[03Dec2024 03:21:20.509] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
+[03Dec2024 03:21:20.527] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting link/infra/indium/renderer/aocalc/AoConfig
+[03Dec2024 03:21:20.568] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/fabricmc/fabric/api/renderer/v1/material/BlendMode
+[03Dec2024 03:21:20.571] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[03Dec2024 03:21:20.573] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: reforgium, class link.infra.indium.Indium
+java.lang.ExceptionInInitializerError: null
+	at link.infra.indium.renderer.RenderMaterialImpl.<clinit>(RenderMaterialImpl.java:33) ~[reforgium-1.0.12a.jar%23310!/:?]
+	at link.infra.indium.renderer.ReforgiumRenderer.materialFinder(ReforgiumRenderer.java:49) ~[reforgium-1.0.12a.jar%23310!/:?]
+	at link.infra.indium.renderer.ReforgiumRenderer.<clinit>(ReforgiumRenderer.java:32) ~[reforgium-1.0.12a.jar%23310!/:?]
+	at link.infra.indium.Indium.<init>(Indium.java:119) ~[reforgium-1.0.12a.jar%23310!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.19.2-43.4.2.jar%23347!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:122) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.fabricmc.fabric.api.renderer.v1.material.BlendMode.<clinit>(BlendMode.java:33) ~[reforgium-1.0.12a.jar%23310!/:?]
+	... 16 more
+[03Dec2024 03:21:20.590] [modloading-worker-0/INFO] [io.github.steveplays28.noisium.Noisium/]: Loading Noisium.
+[03Dec2024 03:21:20.599] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting haloofblocks/projectarsenal/client/event/HudOverlay$OverlayPositions
+[03Dec2024 03:21:20.600] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting haloofblocks/projectarsenal/client/event/HudOverlay$OverlayThemes
+[03Dec2024 03:21:20.609] [modloading-worker-0/INFO] [betterstrongholds/]: Creating directory for additional Better Strongholds configuration at /workspaces/server-msx-1.19.2/servidor_minecraft/config/betterstrongholds/forge-1_19
+[03Dec2024 03:21:20.646] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/math/OctahedralGroup
+[03Dec2024 03:21:20.646] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting haloofblocks/projectarsenal/api/common/FireModes
+[03Dec2024 03:21:20.652] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/math/SymmetricGroup3
+[03Dec2024 03:21:20.687] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/architectury/utils/Env
+[03Dec2024 03:21:20.760] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Dec2024 03:21:20.761] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/architectury/networking/NetworkManager$Side
+[03Dec2024 03:21:20.779] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting foundationgames/enhancedblockentities/util/EBEUtil
+[03Dec2024 03:21:20.781] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting foundationgames/enhancedblockentities/EBESetup
+[03Dec2024 03:21:20.792] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: enhancedblockentities, class foundationgames.enhancedblockentities.EnhancedBlockEntities
+java.lang.NoClassDefFoundError: net/minecraft/client/renderer/item/ItemPropertyFunction
+	at foundationgames.enhancedblockentities.EnhancedBlockEntities.<init>(EnhancedBlockEntities.java:41) ~[EnhancedBlockEntities-Reforged-1.19.2-0.8.0.jar%23255!/:1.19.2-0.8.0]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.19.2-43.4.2.jar%23347!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:122) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.item.ItemPropertyFunction
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 13 more
+[03Dec2024 03:21:20.820] [modloading-worker-0/WARN] [com.cupboard.Cupboard/]: Config cupboard.json not found, recreating default
+[03Dec2024 03:21:20.822] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[03Dec2024 03:21:20.843] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.zombie.feature.PearlerZombie
+[03Dec2024 03:21:20.846] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/insanelib/util/IdTagMatcher$Type
+[03Dec2024 03:21:20.855] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.zombie.feature.FisherZombie
+[03Dec2024 03:21:20.858] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.zombie.feature.DiggerZombie
+[03Dec2024 03:21:20.861] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.WitchPotionThrowing
+[03Dec2024 03:21:20.865] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.WitchFleeTarget
+[03Dec2024 03:21:20.872] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.ThirstyWitches
+[03Dec2024 03:21:20.873] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.feature.DarkArtWitch
+[03Dec2024 03:21:20.883] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.feature.VillagerAttacking
+[03Dec2024 03:21:20.885] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.feature.ThrowingWeb
+[03Dec2024 03:21:20.891] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.feature.Misc
+[03Dec2024 03:21:20.893] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.feature.SkeletonShoot
+[03Dec2024 03:21:20.897] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.feature.SkeletonFleeTarget
+[03Dec2024 03:21:20.901] [modloading-worker-0/WARN] [insane96mcp.insanelib.InsaneLib/]: No module found with ID enhancedai:mobs
+[03Dec2024 03:21:20.902] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.feature.GhastShoot
+[03Dec2024 03:21:20.904] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.feature.ItemDisruption
+[03Dec2024 03:21:20.911] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.feature.GetOverHere
+[03Dec2024 03:21:20.911] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/BreakMode
+[03Dec2024 03:21:20.918] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.feature.DrownedSwimming
+[03Dec2024 03:21:20.919] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/DetectionMode
+[03Dec2024 03:21:20.920] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/MaxSizeAction
+[03Dec2024 03:21:20.921] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/BreakOrder
+[03Dec2024 03:21:20.924] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.feature.CreeperSwell
+[03Dec2024 03:21:20.931] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/AdjacentStopMode
+[03Dec2024 03:21:20.932] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/DamageRounding
+[03Dec2024 03:21:20.934] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/SneakMode
+[03Dec2024 03:21:20.935] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/NotificationMode
+[03Dec2024 03:21:20.937] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.feature.BlazeAttack
+[03Dec2024 03:21:20.940] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Targeting
+[03Dec2024 03:21:20.946] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/wrapper/DirectionCompat
+[03Dec2024 03:21:20.949] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Shielding
+[03Dec2024 03:21:20.954] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Movement
+[03Dec2024 03:21:20.959] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Base
+[03Dec2024 03:21:20.964] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.AvoidExplosions
+[03Dec2024 03:21:20.966] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.Attacking
+[03Dec2024 03:21:20.967] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.base.feature.AntiCheese
+[03Dec2024 03:21:20.971] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.feature.AnimalAttacking
+[03Dec2024 03:21:20.993] [Thread-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/flemmli97/tenshilib/patreon/RenderLocation
+[03Dec2024 03:21:21.000] [modloading-worker-0/INFO] [bettermineshafts/]: Creating directory for advanced Better Mineshafts configs at /workspaces/server-msx-1.19.2/servidor_minecraft/config/bettermineshafts/forge-1_19
+[03Dec2024 03:21:21.008] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/DynamicTrees$SwampOakWaterState
+[03Dec2024 03:21:21.017] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/DynamicTrees$AxeDamage
+[03Dec2024 03:21:21.122] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/leaves/LeavesProperties$AgeingConfiguration
+[03Dec2024 03:21:21.215] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/GrowableBlock$MatureAction
+[03Dec2024 03:21:21.260] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/core/ContentRegistrationFlags
+[03Dec2024 03:21:21.273] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/client/screen/ButtonAlignment
+[03Dec2024 03:21:21.275] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/client/SwayType
+[03Dec2024 03:21:21.334] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/core/DistType
+[03Dec2024 03:21:21.349] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ttv/migami/jeg/client/screen/ButtonAlignment
+[03Dec2024 03:21:21.364] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod mutantmonsters
+[03Dec2024 03:21:21.365] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ttv/migami/jeg/client/SwayType
+[03Dec2024 03:21:21.387] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/client/util/Easings
+[03Dec2024 03:21:21.459] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/core/ModLoader
+[03Dec2024 03:21:21.548] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/network/MessageDirection
+[03Dec2024 03:21:21.553] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/biome/v1/BiomeLoadingPhase
+[03Dec2024 03:21:21.557] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/world/BiomeModifier$Phase
+[03Dec2024 03:21:21.581] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ttv/migami/jeg/client/util/Easings
+[03Dec2024 03:21:21.591] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/framework/api/config/ConfigType
+[03Dec2024 03:21:21.593] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/server-msx-1.19.2/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
+[03Dec2024 03:21:21.593] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/framework/api/Environment
+[03Dec2024 03:21:21.594] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Dec2024 03:21:21.600] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-msx-1.19.2/servidor_minecraft/config/graveyard-1.19.x-common.toml is not correct. Correcting
+[03Dec2024 03:21:21.602] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.604] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.hauntedHouse was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.604] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.hauntedHouse.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.606] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.largeGraveyard was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.607] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.largeGraveyard.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.607] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.mediumGraveyard was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.608] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.mediumGraveyard.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.612] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.memorialTree was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.613] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.memorialTree.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.613] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.mushroomGrave was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.613] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.mushroomGrave.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.616] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Dec2024 03:21:21.625] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallDesertGrave was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallDesertGrave.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallDesertGraveyard was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallDesertGraveyard.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallGrave was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallGrave.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallSavannaGrave was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.627] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallSavannaGrave.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallGraveyard was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallGraveyard.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallMountainGraveyard was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.smallMountainGraveyard.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.crypt was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.crypt.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.altar was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.altar.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.giantMushroom was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.628] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.giantMushroom.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.629] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.lichPrison was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.629] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.lichPrison.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.629] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.ruins was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.629] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.ruins.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.629] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.deadTree was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.629] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Structures Config.deadTree.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.633] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.633] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.634] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul.enabled was corrected from null to its default, true. 
+[03Dec2024 03:21:21.634] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul.weight was corrected from null to its default, 25. 
+[03Dec2024 03:21:21.634] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul.minGroupSizeGhoul was corrected from null to its default, 2. 
+[03Dec2024 03:21:21.634] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul.maxGroupSizeGhoul was corrected from null to its default, 5. 
+[03Dec2024 03:21:21.635] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.635] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.ghoul.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.635] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.636] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant.enabled was corrected from null to its default, true. 
+[03Dec2024 03:21:21.636] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant.weight was corrected from null to its default, 25. 
+[03Dec2024 03:21:21.636] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant.minGroupSizeRevenant was corrected from null to its default, 5. 
+[03Dec2024 03:21:21.637] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant.maxGroupSizeRevenant was corrected from null to its default, 8. 
+[03Dec2024 03:21:21.637] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.637] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.revenant.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.638] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.638] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper.enabled was corrected from null to its default, true. 
+[03Dec2024 03:21:21.638] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper.weight was corrected from null to its default, 10. 
+[03Dec2024 03:21:21.639] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper.minGroupSizeReaper was corrected from null to its default, 2. 
+[03Dec2024 03:21:21.639] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper.maxGroupSizeGhoul was corrected from null to its default, 3. 
+[03Dec2024 03:21:21.640] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.640] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.reaper.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.640] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.641] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare.enabled was corrected from null to its default, true. 
+[03Dec2024 03:21:21.641] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare.weight was corrected from null to its default, 10. 
+[03Dec2024 03:21:21.641] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare.minGroupSizeNightmare was corrected from null to its default, 1. 
+[03Dec2024 03:21:21.642] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare.maxGroupSizeNightmare was corrected from null to its default, 1. 
+[03Dec2024 03:21:21.642] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare.canBurnInSunlight was corrected from null to its default, false. 
+[03Dec2024 03:21:21.644] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.nightmare.canBeWithered was corrected from null to its default, false. 
+[03Dec2024 03:21:21.644] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.645] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper.enabled was corrected from null to its default, true. 
+[03Dec2024 03:21:21.645] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper.weight was corrected from null to its default, 25. 
+[03Dec2024 03:21:21.645] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper.minGroupSizeSkeletonCreeper was corrected from null to its default, 1. 
+[03Dec2024 03:21:21.646] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper.maxGroupSizeSkeletonCreeper was corrected from null to its default, 4. 
+[03Dec2024 03:21:21.647] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.647] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.skeleton_creeper.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.acolyte was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.acolyte.enabled was corrected from null to its default, false. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.acolyte.canBurnInSunlight was corrected from null to its default, false. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.acolyte.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.wraith was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.wraith.enabled was corrected from null to its default, false. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.wraith.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.656] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.wraith.canBeWithered was corrected from null to its default, false. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedPillager was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedPillager.enabled was corrected from null to its default, false. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedPillager.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedPillager.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedVindicator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedVindicator.enabled was corrected from null to its default, false. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedVindicator.canBurnInSunlight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.657] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Mob Spawning Config.corruptedVindicator.canBeWithered was corrected from null to its default, true. 
+[03Dec2024 03:21:21.661] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.661] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.661] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.healthInCastingPhase was corrected from null to its default, 400.0. 
+[03Dec2024 03:21:21.661] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.healthInHuntingPhase was corrected from null to its default, 200.0. 
+[03Dec2024 03:21:21.661] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.damageCastingPhase was corrected from null to its default, 30.0. 
+[03Dec2024 03:21:21.661] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.damageHuntingPhaseAddition was corrected from null to its default, 40.0. 
+[03Dec2024 03:21:21.662] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.armor was corrected from null to its default, 18.0. 
+[03Dec2024 03:21:21.662] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.armorToughness was corrected from null to its default, 14.0. 
+[03Dec2024 03:21:21.662] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.speedInHuntPhase was corrected from null to its default, 0.15. 
+[03Dec2024 03:21:21.662] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.durationHuntingPhase was corrected from null to its default, 800. 
+[03Dec2024 03:21:21.662] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.durationFallingCorpseSpell was corrected from null to its default, 400. 
+[03Dec2024 03:21:21.663] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.durationHealingSpell was corrected from null to its default, 700. 
+[03Dec2024 03:21:21.665] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.durationLevitationSpell was corrected from null to its default, 150. 
+[03Dec2024 03:21:21.665] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.maxAmountSkullsInShootSkullSpell was corrected from null to its default, 5. 
+[03Dec2024 03:21:21.665] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.maxSummonedMobs was corrected from null to its default, 30. 
+[03Dec2024 03:21:21.666] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.maxGroupSizeSummonedMobs was corrected from null to its default, 5. 
+[03Dec2024 03:21:21.666] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.ghoulSpawnTimerInFight was corrected from null to its default, 6000. 
+[03Dec2024 03:21:21.667] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.isBloodCollectableEntity was corrected from null to its default, [entity.minecraft.villager]. 
+[03Dec2024 03:21:21.667] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.isBossSummonableItem was corrected from null to its default, [item.minecraft.debug_stick]. 
+[03Dec2024 03:21:21.667] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.summoningNeedsStaffFragments was corrected from null to its default, true. 
+[03Dec2024 03:21:21.668] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.isMultiphaseFight was corrected from null to its default, true. 
+[03Dec2024 03:21:21.668] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.isInvulnerableDuringSpells was corrected from null to its default, true. 
+[03Dec2024 03:21:21.668] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.cooldownCorpseSpell was corrected from null to its default, 400. 
+[03Dec2024 03:21:21.670] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/framework/platform/services/IPlatformHelper$Platform
+[03Dec2024 03:21:21.680] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.cooldownTeleportPlayerAndHeal was corrected from null to its default, 600. 
+[03Dec2024 03:21:21.680] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.cooldownLevitationSpell was corrected from null to its default, 400. 
+[03Dec2024 03:21:21.680] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Corrupted Champion Config.corruptedChampion.playerTeleportYOffset was corrected from null to its default, -15. 
+[03Dec2024 03:21:21.684] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Horde Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.685] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Horde Config.horde was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.685] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Horde Config.horde.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.685] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Horde Config.horde.mobSpawnAttempts was corrected from null to its default, 40. 
+[03Dec2024 03:21:21.686] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Horde Config.horde.ticksUntilSpawnHorde was corrected from null to its default, 24000. 
+[03Dec2024 03:21:21.687] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Horde Config.horde.additionalRandomizedTicks was corrected from null to its default, 1200. 
+[03Dec2024 03:21:21.690] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Particle Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.691] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Particle Config.particle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.693] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Particle Config.particle.generate was corrected from null to its default, true. 
+[03Dec2024 03:21:21.694] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Particle Config.particle.frequency was corrected from null to its default, 50. 
+[03Dec2024 03:21:21.696] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.697] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config.urn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.697] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config.urn.urnHasDoubleInventory was corrected from null to its default, true. 
+[03Dec2024 03:21:21.698] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config.bossMusic was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.698] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config.bossMusic.enableBossMusic was corrected from null to its default, true. 
+[03Dec2024 03:21:21.699] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config.spawner was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Dec2024 03:21:21.699] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key The Graveyard - Additional Config.spawner.disableWitherSkeletonSpawner was corrected from null to its default, false. 
+[03Dec2024 03:21:21.718] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lilypuree/decorative_blocks/blocks/types/VanillaWoodTypes
+[03Dec2024 03:21:21.721] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lilypuree/decorative_blocks/blocks/types/WoodDecorativeBlockTypes
+[03Dec2024 03:21:21.745] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/SpawnPlacements$Type
+[03Dec2024 03:21:21.772] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[03Dec2024 03:21:21.773] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[03Dec2024 03:21:21.774] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[03Dec2024 03:21:21.775] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[03Dec2024 03:21:21.801] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/progwml6/ironchest/common/item/IronChestsUpgradeType
+[03Dec2024 03:21:21.802] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/progwml6/ironchest/common/block/IronChestsTypes
+[03Dec2024 03:21:21.881] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/betteranimalsplus/imdlib/util/HeadType$PlacementType
+[03Dec2024 03:21:21.886] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/betteranimalsplus/imdlib/util/HeadType$HeadIDMapping
+[03Dec2024 03:21:21.905] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/Difficulty
+[03Dec2024 03:21:21.906] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/ClickEvent$Action
+[03Dec2024 03:21:21.916] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/saveddata/maps/MapDecoration$Type
+[03Dec2024 03:21:21.949] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/rei/impl/common/entry/DeferringEntryTypeProviderImpl
+[03Dec2024 03:21:21.950] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/rei/impl/common/entry/EntryStackProviderImpl
+[03Dec2024 03:21:21.955] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/rei/impl/common/entry/comparison/NbtHasherProviderImpl
+[03Dec2024 03:21:21.959] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/rei/impl/common/entry/EntryIngredientImpl
+[03Dec2024 03:21:21.981] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/rei/api/common/entry/comparison/ComparisonContext
+[03Dec2024 03:21:22.025] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/betteranimalsplus/imdlib/util/config/CommonConfigAPI$ConfigType
+[03Dec2024 03:21:22.053] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[03Dec2024 03:21:22.055] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[03Dec2024 03:21:22.057] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[03Dec2024 03:21:22.057] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[03Dec2024 03:21:22.058] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[03Dec2024 03:21:22.058] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[03Dec2024 03:21:22.072] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[03Dec2024 03:21:22.072] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[03Dec2024 03:21:22.072] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[03Dec2024 03:21:22.072] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[03Dec2024 03:21:22.073] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[03Dec2024 03:21:22.073] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[03Dec2024 03:21:22.077] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/flemmli97/improvedmobs/config/Config$DifficultyBarLocation
+[03Dec2024 03:21:22.080] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/flemmli97/improvedmobs/config/Config$DifficultyType
+[03Dec2024 03:21:22.082] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/flemmli97/improvedmobs/config/EntityModifyFlagConfig$Flags
+[03Dec2024 03:21:22.103] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[03Dec2024 03:21:22.110] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/23ca639241d73eaf919246602470f295
+[03Dec2024 03:21:22.111] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/d8f3c48219d933a6b2302c4d780df514
+[03Dec2024 03:21:22.112] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/dd94e2f3f0db361b8621d0f834adec1b
+[03Dec2024 03:21:22.113] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/59f1974289d63eb58cbd6fe813098096
+[03Dec2024 03:21:22.114] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/fd8d1482ead03ca8a9954263aa7f6289
+[03Dec2024 03:21:22.134] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/momosoftworks/coldsweat/config/ConfigSettings$Difficulty
+[03Dec2024 03:21:22.156] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/momosoftworks/coldsweat/api/insulation/slot/ScalingFormula$Type
+[03Dec2024 03:21:22.170] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/momosoftworks/coldsweat/api/util/Temperature$Units
+[03Dec2024 03:21:22.190] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/momosoftworks/coldsweat/api/util/Temperature$Trait
+[03Dec2024 03:21:22.226] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/HumanoidArm
+[03Dec2024 03:21:22.256] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[03Dec2024 03:21:22.256] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[03Dec2024 03:21:22.293] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 2 errors found
+[03Dec2024 03:21:22.395] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6d6242e5-eb29-4f09-8801-c5a927179ff2
+[03Dec2024 03:21:22.396] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-12-03_03.21.22-fml.txt
+[03Dec2024 03:21:22.412] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4e02ac1c-e7a4-484e-88c2-b558bb31e3ee
+[03Dec2024 03:21:22.423] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Reforgium (reforgium) has failed to load correctly
+§7java.lang.ExceptionInInitializerError: null,
+	EnhancedBlockEntities (enhancedblockentities) has failed to load correctly
+§7java.lang.NoClassDefFoundError: net/minecraft/client/renderer/item/ItemPropertyFunction
+]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:243) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$24(ModLoader.java:208) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:208) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$14(ModLoader.java:185) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:185) ~[fmlcore-1.19.2-43.4.2.jar%23346!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23350!/:?]
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23345!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]

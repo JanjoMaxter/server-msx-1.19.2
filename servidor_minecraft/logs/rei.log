@@ -1,0 +1,150 @@
+[03:21:21] [modloading-worker-0/INFO] ========================================
+[03:21:21] [modloading-worker-0/INFO] Minecraft: 1.19.2
+[03:21:21] [modloading-worker-0/INFO] Side: server
+[03:21:21] [modloading-worker-0/INFO] Development: false
+[03:21:21] [modloading-worker-0/INFO] Version: 9.2.784
+[03:21:21] [modloading-worker-0/INFO] Loader:
+[03:21:21] [modloading-worker-0/INFO] - Forge: 43.4.2
+[03:21:21] [modloading-worker-0/INFO] Dependencies:
+[03:21:21] [modloading-worker-0/INFO] - Cloth Config: 8.3.134
+[03:21:21] [modloading-worker-0/INFO] - Architectury: 6.6.92
+[03:21:21] [modloading-worker-0/INFO] Mixin: 0.8.5
+[03:21:21] [modloading-worker-0/INFO] OS: Linux 6.5.0-1025-azure (amd64)
+[03:21:21] [modloading-worker-0/INFO] Java: 21.0.4 (Microsoft)
+[03:21:21] [modloading-worker-0/INFO] ========================================
+[03:21:21] [modloading-worker-0/INFO] Mods:
+[03:21:21] [modloading-worker-0/INFO] - additionalguns: 0.8.2
+[03:21:21] [modloading-worker-0/INFO] - alexsmobs: 1.21.1
+[03:21:21] [modloading-worker-0/INFO] - alternate_current: 1.7.0
+[03:21:21] [modloading-worker-0/INFO] - ambientsounds: 5.3.9
+[03:21:21] [modloading-worker-0/INFO] - apexguns: 0.0.1
+[03:21:21] [modloading-worker-0/INFO] - architectury: 6.6.92
+[03:21:21] [modloading-worker-0/INFO] - atlaslib: 1.1.5a
+[03:21:21] [modloading-worker-0/INFO] - badmobs: 16.1.3
+[03:21:21] [modloading-worker-0/INFO] - bakery: 1.0.6
+[03:21:21] [modloading-worker-0/INFO] - beefix: 1.0.7
+[03:21:21] [modloading-worker-0/INFO] - better_runtime_resource_pack: 0.9.0
+[03:21:21] [modloading-worker-0/INFO] - better_zombie_drops: 1.0.0
+[03:21:21] [modloading-worker-0/INFO] - betteradvancements: 0.2.2.142
+[03:21:21] [modloading-worker-0/INFO] - betteranimalsplus: 1.19.2-11.0.10
+[03:21:21] [modloading-worker-0/INFO] - bettermineshafts: 1.19.2-Forge-3.2.1
+[03:21:21] [modloading-worker-0/INFO] - betterstrongholds: 1.19.2-Forge-3.2.0
+[03:21:21] [modloading-worker-0/INFO] - blood_and_gore: 1.0.0
+[03:21:21] [modloading-worker-0/INFO] - bocchium: 1.19.2-0.0.3
+[03:21:21] [modloading-worker-0/INFO] - cgm: 1.3.7
+[03:21:21] [modloading-worker-0/INFO] - citadel: 2.1.4
+[03:21:21] [modloading-worker-0/INFO] - cloth_config: 8.3.134
+[03:21:21] [modloading-worker-0/INFO] - cold_sweat: 2.3.6
+[03:21:21] [modloading-worker-0/INFO] - collective: 7.64
+[03:21:21] [modloading-worker-0/INFO] - corgilib: 1.0.0.34
+[03:21:21] [modloading-worker-0/INFO] - coroutil: 1.19.2-1.3.6
+[03:21:21] [modloading-worker-0/INFO] - creativecore: 2.11.28
+[03:21:21] [modloading-worker-0/INFO] - culllessleaves: 1.0.5
+[03:21:21] [modloading-worker-0/INFO] - cupboard: 1.19.2-2.6
+[03:21:21] [modloading-worker-0/INFO] - darkerdepths: 1.19-1.0.7
+[03:21:21] [modloading-worker-0/INFO] - decorative_blocks: 3.0.0
+[03:21:21] [modloading-worker-0/INFO] - deeperdarker: 1.2.2
+[03:21:21] [modloading-worker-0/INFO] - doapi: 1.1.0b
+[03:21:21] [modloading-worker-0/INFO] - dungeons_arise: 2.1.56-1.19.2
+[03:21:21] [modloading-worker-0/INFO] - dungeons_enhanced: 4.1
+[03:21:21] [modloading-worker-0/INFO] - dustydecorations: 1.19.2-1.1
+[03:21:21] [modloading-worker-0/INFO] - dynamictrees: 1.19.2-1.2.2
+[03:21:21] [modloading-worker-0/INFO] - embeddium: 0.3.18.1+mc1.19.2
+[03:21:21] [modloading-worker-0/INFO] - embeddiumplus: 1.2.13
+[03:21:21] [modloading-worker-0/INFO] - enhancedai: 1.8.7
+[03:21:21] [modloading-worker-0/INFO] - enhancedblockentities: 1.19.2-0.8.0
+[03:21:21] [modloading-worker-0/INFO] - enhancedvisuals: 1.5.11
+[03:21:21] [modloading-worker-0/INFO] - entitycollisionfpsfix: 2.0.0.0
+[03:21:21] [modloading-worker-0/INFO] - explorify: 1.6.2
+[03:21:21] [modloading-worker-0/INFO] - fallingtree: 3.10.1
+[03:21:21] [modloading-worker-0/INFO] - farmersdelight: 1.19.2-1.2.4
+[03:21:21] [modloading-worker-0/INFO] - farsightedmobs: 1.1
+[03:21:21] [modloading-worker-0/INFO] - fastload: 3.4.0
+[03:21:21] [modloading-worker-0/INFO] - fastsuite: 4.1.1
+[03:21:21] [modloading-worker-0/INFO] - ferritecore: 5.0.3
+[03:21:21] [modloading-worker-0/INFO] - forge: 43.4.2
+[03:21:21] [modloading-worker-0/INFO] - framework: 0.7.12
+[03:21:21] [modloading-worker-0/INFO] - geckolib3: 3.1.40
+[03:21:21] [modloading-worker-0/INFO] - golems: 19.2.6
+[03:21:21] [modloading-worker-0/INFO] - graveyard: 2.5.3
+[03:21:21] [modloading-worker-0/INFO] - guardvillagers: 1.19.2-1.5.9
+[03:21:21] [modloading-worker-0/INFO] - hordes: 1.5.4
+[03:21:21] [modloading-worker-0/INFO] - humancompanions: 1.19.2-1.7.4
+[03:21:21] [modloading-worker-0/INFO] - immediatelyfast: 1.3.0+1.19.2
+[03:21:21] [modloading-worker-0/INFO] - immersive_armors: 1.5.6+1.19.2
+[03:21:21] [modloading-worker-0/INFO] - improvedmobs: 1.19-1.11.0
+[03:21:21] [modloading-worker-0/INFO] - incontrol: 1.19-7.1.18
+[03:21:21] [modloading-worker-0/INFO] - insanelib: 1.7.5
+[03:21:21] [modloading-worker-0/INFO] - ironchest: 1.19.2-14.2.7
+[03:21:21] [modloading-worker-0/INFO] - jade: 8.9.2
+[03:21:21] [modloading-worker-0/INFO] - jeg: 0.4.0
+[03:21:21] [modloading-worker-0/INFO] - jei: 11.8.1.1034
+[03:21:21] [modloading-worker-0/INFO] - k_turrets: 2.0.46-1.19
+[03:21:21] [modloading-worker-0/INFO] - kevin_trophy: 1.0.0
+[03:21:21] [modloading-worker-0/INFO] - lazydfu: 0.1.3
+[03:21:21] [modloading-worker-0/INFO] - libraryferret: 4.0.0
+[03:21:21] [modloading-worker-0/INFO] - limitedchunks: 1.8
+[03:21:21] [modloading-worker-0/INFO] - magistuarmory: 9.8
+[03:21:21] [modloading-worker-0/INFO] - mcwbridges: 3.0.1
+[03:21:21] [modloading-worker-0/INFO] - mcwfences: 1.1.2
+[03:21:21] [modloading-worker-0/INFO] - mcwfurnitures: 3.3.0
+[03:21:21] [modloading-worker-0/INFO] - mcwlights: 1.1.0
+[03:21:21] [modloading-worker-0/INFO] - mcwroofs: 2.3.1
+[03:21:21] [modloading-worker-0/INFO] - mcwwindows: 2.3.0
+[03:21:21] [modloading-worker-0/INFO] - minecraft: 1.19.2
+[03:21:21] [modloading-worker-0/INFO] - minetraps: 2.2.4a
+[03:21:21] [modloading-worker-0/INFO] - mixinextras: 0.2.0-beta.9
+[03:21:21] [modloading-worker-0/INFO] - mobsunscreen: 3.0.9
+[03:21:21] [modloading-worker-0/INFO] - modernfix: 5.18.1+mc1.19.2
+[03:21:21] [modloading-worker-0/INFO] - moguns: 1.10.0
+[03:21:21] [modloading-worker-0/INFO] - mutantmonsters: 4.0.6
+[03:21:21] [modloading-worker-0/INFO] - mvs: 4.1.4-1.19.2-forge
+[03:21:21] [modloading-worker-0/INFO] - nerb: 0.3
+[03:21:21] [modloading-worker-0/INFO] - noisium: 1.0.2
+[03:21:21] [modloading-worker-0/INFO] - nzgmaddon: 1.4.4
+[03:21:21] [modloading-worker-0/INFO] - onlylooking: 1.19.2-4.1.1
+[03:21:21] [modloading-worker-0/INFO] - philipsruins: 9.8
+[03:21:21] [modloading-worker-0/INFO] - placebo: 7.4.0
+[03:21:21] [modloading-worker-0/INFO] - pluto: 0.0.9
+[03:21:21] [modloading-worker-0/INFO] - polymorph: 0.46.6+1.19.2
+[03:21:21] [modloading-worker-0/INFO] - presencefootsteps: 1.19.2-1.6.4.1
+[03:21:21] [modloading-worker-0/INFO] - projectarsenal: 0.4.0
+[03:21:21] [modloading-worker-0/INFO] - puzzleslib: 4.4.3
+[03:21:21] [modloading-worker-0/INFO] - reeses_sodium_options: 1.0.7
+[03:21:21] [modloading-worker-0/INFO] - reforgium: 1.0.12a
+[03:21:21] [modloading-worker-0/INFO] - refurbished_furniture: 1.0.6
+[03:21:21] [modloading-worker-0/INFO] - roughlyenoughitems: 9.2.784
+[03:21:21] [modloading-worker-0/INFO] - rubidium: 0.6.2c
+[03:21:21] [modloading-worker-0/INFO] - satako: 6.0.16-1.19
+[03:21:21] [modloading-worker-0/INFO] - scorchedguns: 0.7.2
+[03:21:21] [modloading-worker-0/INFO] - securitycraft: 1.9.6.1
+[03:21:21] [modloading-worker-0/INFO] - shieldexp: 1.1.7a
+[03:21:21] [modloading-worker-0/INFO] - smoothchunk: 1.19.2-3.5
+[03:21:21] [modloading-worker-0/INFO] - sophisticatedbackpacks: 1.19.2-3.20.2.1035
+[03:21:21] [modloading-worker-0/INFO] - sophisticatedcore: 1.19.2-0.6.4.605
+[03:21:21] [modloading-worker-0/INFO] - sound_physics_remastered: 1.19.2-1.4.5
+[03:21:21] [modloading-worker-0/INFO] - spark: 1.10.37
+[03:21:21] [modloading-worker-0/INFO] - spectrelib: 0.12.8+1.19.2
+[03:21:21] [modloading-worker-0/INFO] - spelunkers_charm: 3.5.9
+[03:21:21] [modloading-worker-0/INFO] - stabxmodernguns: 8.4
+[03:21:21] [modloading-worker-0/INFO] - starlight: 1.1.1+forge.a3aea74
+[03:21:21] [modloading-worker-0/INFO] - structory: 1.3.1a
+[03:21:21] [modloading-worker-0/INFO] - structure_gel: 2.7.3
+[03:21:21] [modloading-worker-0/INFO] - swingthroughgrass: 1.19.2-1.10.0
+[03:21:21] [modloading-worker-0/INFO] - takesapillage: 1.0.3
+[03:21:21] [modloading-worker-0/INFO] - tectonic: 2.3.5a
+[03:21:21] [modloading-worker-0/INFO] - tenshilib: 1.19.2-1.6.15
+[03:21:21] [modloading-worker-0/INFO] - terraform: 4.2.0
+[03:21:21] [modloading-worker-0/INFO] - textrues_embeddium_options: 0.1.1+mc1.19.2
+[03:21:21] [modloading-worker-0/INFO] - thirst: 1.19.2-1.3.9
+[03:21:21] [modloading-worker-0/INFO] - twigs: 1.19.2-3.0.1
+[03:21:21] [modloading-worker-0/INFO] - twm: 1.0.0
+[03:21:21] [modloading-worker-0/INFO] - voicechat: 1.19.2-2.5.24
+[03:21:21] [modloading-worker-0/INFO] - vtaw_mw: 1.0.2
+[03:21:21] [modloading-worker-0/INFO] - yungsapi: 1.19.2-Forge-3.8.10
+[03:21:21] [modloading-worker-0/INFO] - zombieawareness: 1.19.2-1.12.3
+[03:21:21] [modloading-worker-0/INFO] ========================================
+[03:21:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[03:21:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[03:21:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[03:21:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
