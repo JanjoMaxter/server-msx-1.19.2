@@ -2,6 +2,10 @@
 [General]
 	#How much faster is hydration depletion relative to hunger (1 means they will deplete at the same speed)
 	thirstDepletionModifier = 1.2
+	#Whether players won't be able to sprint if their thirst bar is 3 droplets or less
+	moveSlowWhenThirsty = true
+	#Whether foods labeled as drinks will restore hunger
+	enableDrinksNutrition = true
 	#Whether hydration depletion in peaceful mode
 	thirstDepletionInPeace = false
 	#How much is hydration depletion in nether faster than overworld
@@ -12,12 +16,8 @@
 	fireResistanceDehydration = 50
 	#Whether thirst depletes when player is nausea
 	depletesWhenNausea = true
-	#Whether players won't be able to sprint if their thirst bar is 3 droplets or less
-	moveSlowWhenThirsty = true
 	#Whether players can drink rain water
 	DrinkRainWater = true
-	#Whether foods labeled as drinks will restore hunger
-	enableDrinksNutrition = true
 
 ["Drinking Mechanics"]
 	#Stack size for water bottles

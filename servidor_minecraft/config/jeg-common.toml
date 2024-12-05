@@ -3,14 +3,6 @@
 
 	#Properties relating to gameplay
 	[common.gameplay]
-		#If enabled, both guns and attachment will receive damage upon firing a gun.
-		gunDurability = true
-		#If enabled, guns will have an increasing chance of jamming the lower durability they have left.
-		gunJamming = true
-		#If enabled, guns will deal less/more damage depending on their advantage.
-		gunAdvantage = true
-		#If enabled, guns will be able to shoot underwater (There are guns that already do this).
-		underwaterFiring = false
 		#The extra amount to expand an entity's bounding box when checking for projectile collision. Setting this value higher will make it easier to hit entities
 		#Range: 0.0 ~ 1.0
 		growBoundingBoxAmount = 0.3
@@ -31,6 +23,14 @@
 		knockbackStrength = 0.15
 		#If true, improves the accuracy of weapons by considering the ping of the player. This has no affect on singleplayer. This will add a little overhead if enabled.
 		improvedHitboxes = false
+		#If enabled, both guns and attachment will receive damage upon firing a gun.
+		gunDurability = true
+		#If enabled, guns will have an increasing chance of jamming the lower durability they have left.
+		gunJamming = true
+		#If enabled, guns will deal less/more damage depending on their advantage.
+		gunAdvantage = true
+		#If enabled, guns will be able to shoot underwater (There are guns that already do this).
+		underwaterFiring = false
 
 		#Properties related to gun griefing
 		[common.gameplay.griefing]
@@ -45,15 +45,6 @@
 			fragileBlockBreakChance = 1.0
 			#If true, allows guns enchanted with Fire Starter to light and spread fires on blocks
 			setFireToBlocks = true
-
-	#Properties relating to the JEG world and its ecosystem
-	[common.world]
-		#If disabled, Boos will not generate.
-		booSpawning = true
-		#If disabled, Ghouls will not generate.
-		ghoulSpawning = true
-		#If enabled, Creepers have a 5% chance of dropping a live grenade.
-		creepersDropLiveGrenades = true
 
 	#Properties relating to network
 	[common.network]
@@ -144,4 +135,13 @@
 		#The amount of times a player has to shoot within the spread threshold before the maximum amount of spread is applied. Setting the value higher means it will take longer for the spread to be applied.
 		#Range: > 1
 		maxCount = 10
+
+	#Properties relating to the JEG world and its ecosystem
+	[common.world]
+		#If disabled, Boos will not generate.
+		booSpawning = true
+		#If disabled, Ghouls will not generate.
+		ghoulSpawning = true
+		#If enabled, Creepers have a 5% chance of dropping a live grenade.
+		creepersDropLiveGrenades = true
 

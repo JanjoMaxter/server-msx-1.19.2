@@ -223,7 +223,7 @@
 		urnHasDoubleInventory = true
 
 	["The Graveyard - Additional Config".spawner]
-		disableWitherSkeletonSpawner = false
+		disableWitherSkeletonSpawner = true
 
 	["The Graveyard - Additional Config".bossMusic]
 		enableBossMusic = true

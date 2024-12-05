@@ -5,7 +5,7 @@
 	#When true, pumpkins can be used to build this mod's golems
 	pumpkin_builds_golems = false
 	#When enabled, attacking a player-built entity will make it attack you
-	friendly_fire = true
+	friendly_fire = false
 	#When enabled, players can use the spell item on a carved pumpkin to convert it to a golem head in-world
 	use_spell = true
 	#Super secret special days

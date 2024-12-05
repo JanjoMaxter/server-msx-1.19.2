@@ -1,1 +1,10 @@
-[]
+[
+
+{
+    "mob": "minecraft:zombie",
+    "baby": true,
+    "onjoin": true,
+    "result": "deny"
+}
+  
+]
