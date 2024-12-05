@@ -1,0 +1,961 @@
+{
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/black_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/aks74ux": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/m60": {
+    "criteria": {
+      "has_black_dye": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/45acp": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/50_caliber": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/5.56x45_nato": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/mossou": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2024-12-05 22:43:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/black_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-05 22:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-05 22:43:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-12-05 22:43:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "moguns:crayfish/root": {
+    "criteria": {
+      "tick": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/acr_bushmaster": {
+    "criteria": {
+      "has_gray_dye": "2024-12-05 22:39:55 +0000",
+      "has_black_dye": "2024-12-05 22:39:56 +0000",
+      "has_orange_dye": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/7.32x33mm_kurz": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 22:43:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-05 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-05 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-12-05 22:41:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/9mm": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-05 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/300wm": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/desert_eagle_classic": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/50ae": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
+    "criteria": {
+      "has_log": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/30_60_springfield_cartridge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-05 22:43:38 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-05 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "moguns:weapons/root": {
+    "criteria": {
+      "tick": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/7.7x58mm": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2024-12-05 22:40:34 +0000",
+      "minecraft:savanna": "2024-12-05 22:39:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/7.62x51mm_nato": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-05 22:41:48 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/green_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/black_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/7.62mm": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2024-12-05 22:40:06 +0000"
+    },
+    "done": false
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/50bmg": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/12_gauge_buckshot_slug_shell_360": {
+    "criteria": {
+      "has_red_dye": "2024-12-05 22:39:56 +0000",
+      "has_yellow_dye": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "stabxmodernguns:recipes/stabxmodernguns/500_magnum_smith_and_wesson": {
+    "criteria": {
+      "has_black_dye": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/green_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-05 22:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/green_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
