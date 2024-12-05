@@ -85,14 +85,61 @@
 			"List as Whitelist" = false
 
 [Witches]
-	#Witches throw potions farther, faster and more potion types. Also no longer chase player if they can't see him.
-	"Enable Witch Potion Throwing" = true
-	#Witches drink more potions.
-	"Enable Thirsty Witches" = true
 	#Witches flee from the target.
 	"Enable Witch Flee Target" = true
+	#Witches drink more potions.
+	"Enable Thirsty Witches" = true
 	#Witches summon Villagers and cast a lightning upon them.
 	"Enable Dark Arts Witches" = true
+	#Witches throw potions farther, faster and more potion types. Also no longer chase player if they can't see him.
+	"Enable Witch Potion Throwing" = true
+
+	#Witches flee from the target.
+	[Witches."Witch Flee Target"]
+		#Chance for a Witch to spawn with the ability to avoid the player
+		#Range: 0.0 ~ 1.0
+		"Avoid Player chance" = 1.0
+		#Chance for a Witch to be able to throw potions while running from a player
+		#Range: 0.0 ~ 1.0
+		"Attack When Avoiding Chance" = 0.5
+		#Distance from a player that will make the Witch run away.
+		#Range: 0.0 ~ 32.0
+		"Flee Distance Far" = 16.0
+		#Distance from a player that counts as near and will make the Witch run away faster.
+		#Range: 0.0 ~ 32.0
+		"Flee Distance Near" = 8.0
+		#Speed multiplier when the Witch avoids the player and it's farther than 'Flee Distance Near' blocks from him.
+		#Range: 0.0 ~ 4.0
+		"Flee speed Multiplier Far" = 1.1
+		#Speed multiplier when the Witch avoids the player and it's within 'Flee Distance Near' blocks from him.
+		#Range: 0.0 ~ 4.0
+		"Flee speed Multiplier Near" = 1.25
+
+	#Witches drink more potions.
+	[Witches."Thirsty Witches"]
+		#Chance for a witch to drink a healing potion when not full health. Defaults to Vanilla
+		#Range: 0.0 ~ 1.0
+		"Healing Chance" = 0.05
+		#Below this percentage health, witches will drink strong healing potions instead of normal ones.
+		#Range: 0.0 ~ 1.0
+		"Strong healing Threshold" = 0.4
+		#Chance for a witch to drink a water breathing potion when in water and air meter is at half. Vanilla is 15% and doesn't check the air meter.
+		#Range: 0.0 ~ 1.0
+		"Water Breathing Chance" = 1.0
+		#Chance for a witch to drink a fire resistance potion when on fire. Vanilla is 15%.
+		#Range: 0.0 ~ 1.0
+		"Fire Resistance Chance" = 1.0
+		#Chance for a witch to drink milk when they have a negative effect.
+		#Range: 0.0 ~ 1.0
+		"Drink Milk Chance" = 0.1
+		#A list of potions that the witch will drink as soon as the player is targeted. Note that witches can still drink other potions in different situations, refer to other config options. Format is effect_id,duration,amplifier. The potions are applied in order and witches will not drink the same potion if already has the effect.
+		"Potions on Target List" = ["minecraft:speed,3600,1", "minecraft:resistance,3600,0", "minecraft:absorption,1800,0", "minecraft:regeneration,900,0"]
+
+	#Witches summon Villagers and cast a lightning upon them.
+	[Witches."Dark Arts Witches"]
+		#Chance for a witch to get the Dark Art AI (as soon as they have a target and are less than 10 blocks away from the target will summon a Villager and cast a lightning bolt on them
+		#Range: 0.0 ~ 1.0
+		"Dark Art Chance" = 0.333
 
 	#Witches throw potions farther, faster and more potion types. Also no longer chase player if they can't see him.
 	[Witches."Witch Potion Throwing"]
@@ -131,53 +178,6 @@
 			Blacklist = []
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
-
-	#Witches drink more potions.
-	[Witches."Thirsty Witches"]
-		#Chance for a witch to drink a healing potion when not full health. Defaults to Vanilla
-		#Range: 0.0 ~ 1.0
-		"Healing Chance" = 0.05
-		#Below this percentage health, witches will drink strong healing potions instead of normal ones.
-		#Range: 0.0 ~ 1.0
-		"Strong healing Threshold" = 0.4
-		#Chance for a witch to drink a water breathing potion when in water and air meter is at half. Vanilla is 15% and doesn't check the air meter.
-		#Range: 0.0 ~ 1.0
-		"Water Breathing Chance" = 1.0
-		#Chance for a witch to drink a fire resistance potion when on fire. Vanilla is 15%.
-		#Range: 0.0 ~ 1.0
-		"Fire Resistance Chance" = 1.0
-		#Chance for a witch to drink milk when they have a negative effect.
-		#Range: 0.0 ~ 1.0
-		"Drink Milk Chance" = 0.1
-		#A list of potions that the witch will drink as soon as the player is targeted. Note that witches can still drink other potions in different situations, refer to other config options. Format is effect_id,duration,amplifier. The potions are applied in order and witches will not drink the same potion if already has the effect.
-		"Potions on Target List" = ["minecraft:speed,3600,1", "minecraft:resistance,3600,0", "minecraft:absorption,1800,0", "minecraft:regeneration,900,0"]
-
-	#Witches flee from the target.
-	[Witches."Witch Flee Target"]
-		#Chance for a Witch to spawn with the ability to avoid the player
-		#Range: 0.0 ~ 1.0
-		"Avoid Player chance" = 1.0
-		#Chance for a Witch to be able to throw potions while running from a player
-		#Range: 0.0 ~ 1.0
-		"Attack When Avoiding Chance" = 0.5
-		#Distance from a player that will make the Witch run away.
-		#Range: 0.0 ~ 32.0
-		"Flee Distance Far" = 16.0
-		#Distance from a player that counts as near and will make the Witch run away faster.
-		#Range: 0.0 ~ 32.0
-		"Flee Distance Near" = 8.0
-		#Speed multiplier when the Witch avoids the player and it's farther than 'Flee Distance Near' blocks from him.
-		#Range: 0.0 ~ 4.0
-		"Flee speed Multiplier Far" = 1.1
-		#Speed multiplier when the Witch avoids the player and it's within 'Flee Distance Near' blocks from him.
-		#Range: 0.0 ~ 4.0
-		"Flee speed Multiplier Near" = 1.25
-
-	#Witches summon Villagers and cast a lightning upon them.
-	[Witches."Dark Arts Witches"]
-		#Chance for a witch to get the Dark Art AI (as soon as they have a target and are less than 10 blocks away from the target will summon a Villager and cast a lightning bolt on them
-		#Range: 0.0 ~ 1.0
-		"Dark Art Chance" = 0.333
 
 [Villagers]
 	#Make villagers fight back
@@ -360,10 +360,10 @@
 			"List as Whitelist" = false
 
 [Endermen]
-	#NOT YET IMPLEMENTED. Endermen will make the player's item fall from his hands.
-	"Enable Item Disruption" = false
 	#Endermen teleport the player near him when can't reach him for a while.
 	"Enable [Experimental] Get Over Here" = false
+	#NOT YET IMPLEMENTED. Endermen will make the player's item fall from his hands.
+	"Enable Item Disruption" = false
 
 	#Endermen teleport the player near him when can't reach him for a while.
 	[Endermen."[Experimental] Get Over Here"]
@@ -474,18 +474,31 @@
 			"List as Whitelist" = false
 
 [Base]
-	#Change how mobs target players
-	"Enable Targeting" = true
-	#Makes mobs be able to move in more ways, like climbing or swim.
-	"Enable Movement" = true
-	#Mobs will run away from exploding creepers / TNT
-	"Enable Avoid Explosions" = true
 	#Prevent players from abusing some game mechanics to stop mobs
 	"Enable Anti-Cheese" = true
-	#Changes attack range to use the 1.20.2 mechanic
-	"Enable Attacking" = true
+	#Change how mobs target players
+	"Enable Targeting" = true
 	#Makes mobs be able to use shields.
 	"Enable Shielding" = false
+	#Mobs will run away from exploding creepers / TNT
+	"Enable Avoid Explosions" = true
+	#Changes attack range to use the 1.20.2 mechanic
+	"Enable Attacking" = true
+	#Makes mobs be able to move in more ways, like climbing or swim.
+	"Enable Movement" = true
+
+	[Base.Base]
+		#How far away from any player monsters will instantly despawn? Vanilla is 128
+		#Range: 0 ~ 128
+		"Monsters Despawning Distance" = 96
+		#How far away from any player monsters will be able to randomly despawn? Vanilla is 32
+		#Range: 0 ~ 128
+		"Min Monsters Despawning Distance" = 48
+
+	#Prevent players from abusing some game mechanics to stop mobs
+	[Base.Anti-Cheese]
+		#If true, 'Enemies' will no longer be able to be Boated and Minecarted.
+		"Prevent Boating & Minecarting" = true
 
 	#Change how mobs target players
 	[Base.Targeting]
@@ -516,16 +529,6 @@
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
-	#Makes mobs be able to move in more ways, like climbing or swim.
-	[Base.Movement]
-		#If true, mobs will be able to climb (up and down)
-		"Allow Climbing" = false
-		#If true, mobs try to find climbable blocks to reach the target
-		"Target Ladders" = false
-		#How faster mobs can swim. Setting to 0 will leave the swim speed as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute.
-		#Range: 0.0 ~ 4.0
-		"Swim Speed Multiplier" = 2.5
-
 	#Mobs will run away from exploding creepers / TNT
 	[Base."Avoid Explosions"]
 		#Speed multiplier when the mob runs from explosions and it's within 7 blocks from him.
@@ -541,23 +544,20 @@
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
-	#Prevent players from abusing some game mechanics to stop mobs
-	[Base.Anti-Cheese]
-		#If true, 'Enemies' will no longer be able to be Boated and Minecarted.
-		"Prevent Boating & Minecarting" = true
-
-	[Base.Base]
-		#How far away from any player monsters will instantly despawn? Vanilla is 128
-		#Range: 0 ~ 128
-		"Monsters Despawning Distance" = 96
-		#How far away from any player monsters will be able to randomly despawn? Vanilla is 32
-		#Range: 0 ~ 128
-		"Min Monsters Despawning Distance" = 48
-
 	#Changes attack range to use the 1.20.2 mechanic
 	[Base.Attacking]
 		#If true melee monsters (zombies, etc) will attack based off the forge:attack_range attribute instead of a fixed ~0.82 blocks. By default, mobs' forge:attack_range is set to 0.82 blocks, like vanilla 1.20.2.
 		"Melee Attacks Attribute Based" = false
+
+	#Makes mobs be able to move in more ways, like climbing or swim.
+	[Base.Movement]
+		#If true, mobs will be able to climb (up and down)
+		"Allow Climbing" = false
+		#If true, mobs try to find climbable blocks to reach the target
+		"Target Ladders" = false
+		#How faster mobs can swim. Setting to 0 will leave the swim speed as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute.
+		#Range: 0.0 ~ 4.0
+		"Swim Speed Multiplier" = 2.5
 
 [Animals]
 	#Make animals fight back and no longer flee when attacked

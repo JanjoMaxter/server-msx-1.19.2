@@ -1,241 +1,214 @@
 {
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "mcwfences:recipes/acacia": {
     "criteria": {
-      "has_logs": "2024-12-05 20:24:58 +0000"
+      "has_acacia": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "stabxmodernguns:recipes/stabxmodernguns/50ae": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "seeds": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+  "mcwfences:recipes/jungle": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_jungle": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "stabxmodernguns:recipes/stabxmodernguns/aks74ux": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_the_recipe": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+  "mcwfences:recipes/deepslate": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_deepslate": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_door": {
+  "mcwfences:recipes/quartz": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_qq": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+  "mcwfences:recipes/spruce": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_spruce": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "mcwfences:recipes/oak": {
     "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_oak": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
+  "mcwfences:recipes/hedge": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_birch": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+  "stabxmodernguns:recipes/stabxmodernguns/7.62mm": {
     "criteria": {
-      "has_tag": "2024-12-05 20:16:47 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "mcwfences:recipes/end": {
     "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_end_brick": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
+  "stabxmodernguns:recipes/stabxmodernguns/m60": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_black_dye": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "stabxmodernguns:recipes/stabxmodernguns/45acp": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "mcwfences:recipes/birch": {
     "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_birch": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "mcwfences:recipes/blackstone": {
     "criteria": {
-      "minecraft:wooded_badlands": "2024-12-05 20:02:38 +0000",
-      "minecraft:savanna_plateau": "2024-12-05 20:03:23 +0000",
-      "minecraft:river": "2024-12-05 20:02:28 +0000",
-      "minecraft:forest": "2024-12-05 20:02:31 +0000",
-      "minecraft:desert": "2024-12-05 20:02:46 +0000",
-      "minecraft:savanna": "2024-12-05 20:01:19 +0000",
-      "minecraft:plains": "2024-12-05 20:02:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-05 20:03:41 +0000"
+      "has_blackstone": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "mcwfences:recipes/dark_oak": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_dark_oak": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "stabxmodernguns:recipes/stabxmodernguns/9mm": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "mcwfences:recipes/sandstone": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_sand": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+  "stabxmodernguns:recipes/stabxmodernguns/50_caliber": {
     "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "mcwfences:recipes/mud_brick": {
     "criteria": {
-      "has_log": "2024-12-05 20:24:58 +0000"
+      "has_qq": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
+  "stabxmodernguns:recipes/stabxmodernguns/50bmg": {
     "criteria": {
-      "beacon": "2024-12-05 20:11:31 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "stabxmodernguns:recipes/stabxmodernguns/5.56x45_nato": {
     "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+  "mcwfences:recipes/nether": {
     "criteria": {
-      "has_glass": "2024-12-05 20:12:25 +0000"
+      "has_nether_brick": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "stabxmodernguns:recipes/stabxmodernguns/12_gauge_buckshot_slug_shell_360": {
     "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_red_dye": "2024-11-12 01:19:11 -0500",
+      "has_yellow_dye": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "stabxmodernguns:recipes/stabxmodernguns/500_magnum_smith_and_wesson": {
     "criteria": {
-      "has_lots_of_items": "2024-12-05 20:25:09 +0000"
+      "has_black_dye": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "mcwfences:recipes/crimson": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_crimson": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "mcwfences:recipes/stone": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_stone": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+  "mcwfences:recipes/mangrove": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_mangrove": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+  "stabxmodernguns:recipes/stabxmodernguns/7.62x51mm_nato": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
+  "mcwfences:recipes/warped": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_warped": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab": {
+  "stabxmodernguns:recipes/stabxmodernguns/acr_bushmaster": {
     "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
+      "has_gray_dye": "2024-11-12 01:19:11 -0500",
+      "has_black_dye": "2024-11-12 01:19:11 -0500",
+      "has_orange_dye": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "mcwfences:recipes/prismarine": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
+      "has_qq": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "mcwfences:recipes/bamboo": {
     "criteria": {
-      "has_gold_block": "2024-12-05 20:09:55 +0000"
+      "has_bamboo": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "stabxmodernguns:recipes/stabxmodernguns/7.32x33mm_kurz": {
     "criteria": {
-      "has_planks": "2024-12-05 20:05:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-05 20:12:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-05 20:16:47 +0000"
+      "has_copper_ingot": "2024-11-12 01:19:11 -0500"
     },
     "done": true
   },
