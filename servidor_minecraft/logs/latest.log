@@ -14935,3 +14935,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [05Dec2024 01:34:58.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkZenoxx left the game
 [05Dec2024 01:34:58.899] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DarkZenoxx
 [05Dec2024 01:34:58.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45004ms or 900 ticks behind
+[05Dec2024 01:43:19.608] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57e7ed14
+[05Dec2024 01:43:19.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JanjoMaxter[/100.86.147.13:57974] logged in with entity id 28678 at (16.30000001192093, 123.0, -3.5709054832932625)
+[05Dec2024 01:43:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter joined the game
+[05Dec2024 01:43:19.661] [Server thread/INFO] [Jade/]: Syncing config to JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38)
+[05Dec2024 01:43:20.334] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JanjoMaxter (18)
+[05Dec2024 01:43:20.335] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JanjoMaxter
+[05Dec2024 01:43:23.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2d59573-ab81-3221-9828-155fa365ba38
+[05Dec2024 01:43:24.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2d59573-ab81-3221-9828-155fa365ba38
+[05Dec2024 01:43:24.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38) successfully connected to voice chat
+[05Dec2024 01:43:38.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JanjoMaxter lost connection: Disconnected
+[05Dec2024 01:43:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter left the game
+[05Dec2024 01:43:38.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JanjoMaxter
