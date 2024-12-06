@@ -9276,3 +9276,7 @@ java.lang.Throwable: null
 [06Dec2024 01:04:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makoto left the game
 [06Dec2024 01:04:22.274] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of makoto
 [06Dec2024 01:04:22.274] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client makoto
+[06Dec2024 01:07:02.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:07:02.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:12:02.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:12:02.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
