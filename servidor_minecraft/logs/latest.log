@@ -818,3 +818,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 01:04:22.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: makoto lost connection: Disconnected
 [06Dec2024 01:04:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makoto left the game
 [06Dec2024 01:04:22.274] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client makoto
+[06Dec2024 01:24:51.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Dec2024 01:24:51.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 01:24:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 01:24:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 01:24:52.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 01:24:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06Dec2024 01:24:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 01:24:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 01:24:52.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 01:24:52.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Dec2024 01:24:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 01:24:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 01:24:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Dec2024 01:24:52.949] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Dec2024 01:24:52.950] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
