@@ -16,3 +16,20 @@
 [10Dec2024 00:03:21.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seraynne lost connection: Disconnected
 [10Dec2024 00:03:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seraynne left the game
 [10Dec2024 00:03:21.064] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seraynne
+[10Dec2024 00:11:15.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49f5d2ee
+[10Dec2024 00:11:15.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JanjoMaxter[/100.86.147.13:53966] logged in with entity id 458 at (5.4336928398977395, 108.9375, -19.539098294089627)
+[10Dec2024 00:11:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter joined the game
+[10Dec2024 00:11:15.126] [Server thread/INFO] [Jade/]: Syncing config to JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38)
+[10Dec2024 00:11:17.271] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JanjoMaxter (18)
+[10Dec2024 00:11:17.272] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JanjoMaxter
+[10Dec2024 00:11:22.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2d59573-ab81-3221-9828-155fa365ba38
+[10Dec2024 00:11:23.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2d59573-ab81-3221-9828-155fa365ba38
+[10Dec2024 00:11:23.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38) successfully connected to voice chat
+[10Dec2024 00:12:20.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 00:12:20.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[10Dec2024 00:12:27.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/tree/AbortedResult
+[10Dec2024 00:12:32.207] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 00:12:32.207] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[10Dec2024 00:12:41.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JanjoMaxter lost connection: Disconnected
+[10Dec2024 00:12:41.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter left the game
+[10Dec2024 00:12:41.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JanjoMaxter
