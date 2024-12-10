@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-10 00:03:05 +0000"
@@ -132,6 +138,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2024-12-10 00:02:58 +0000"
@@ -194,15 +218,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_quartz": "2024-12-10 00:03:05 +0000"
+      "in_water": "2024-12-10 00:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
     },
     "done": true
   },
   "stabxmodernguns:recipes/stabxmodernguns/7.32x33mm_kurz": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 00:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 00:03:05 +0000"
     },
     "done": true
   },
@@ -227,6 +263,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-10 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
     },
     "done": true
   },
@@ -330,6 +372,12 @@
   "stabxmodernguns:recipes/stabxmodernguns/500_magnum_smith_and_wesson": {
     "criteria": {
       "has_black_dye": "2024-12-10 00:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 00:22:54 +0000"
     },
     "done": true
   },
