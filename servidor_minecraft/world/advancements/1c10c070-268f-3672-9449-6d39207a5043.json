@@ -337,15 +337,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-05 22:58:11 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-05 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 22:58:11 +0000"
     },
     "done": true
   },
@@ -433,15 +433,15 @@
     },
     "done": true
   },
-  "projectarsenal:recipes/projectarsenal/desert_eagle_classic": {
-    "criteria": {
-      "has_gunpowder": "2024-12-05 22:58:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/desert_eagle_classic": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
     },
     "done": true
   },
@@ -565,12 +565,6 @@
     },
     "done": true
   },
-  "additionalguns:recipes/additionalguns/bullet_long": {
-    "criteria": {
-      "has_gunpowder": "2024-12-05 22:58:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-05 22:58:07 +0000"
@@ -580,6 +574,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 22:58:41 +0000"
     },
     "done": true
   },
@@ -800,15 +800,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-05 22:58:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/white_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 22:58:41 +0000"
     },
     "done": true
   },
