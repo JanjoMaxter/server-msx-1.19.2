@@ -926,3 +926,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Dec2024 18:29:25.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2d59573-ab81-3221-9828-155fa365ba38
 [10Dec2024 18:29:26.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2d59573-ab81-3221-9828-155fa365ba38
 [10Dec2024 18:29:26.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38) successfully connected to voice chat
+[10Dec2024 18:30:07.309] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/zombie/entity/projectile/FishingHook$FishHookState
+[10Dec2024 18:30:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was pummeled by Spider
+[10Dec2024 18:30:31.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[10Dec2024 18:30:39.636] [Worker-Main-30/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/RootConnections$ConnectionLevel
+[10Dec2024 18:30:40.411] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[10Dec2024 18:30:54.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[10Dec2024 18:30:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was blown up by Creeper
+[10Dec2024 18:30:58.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:30:58.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[10Dec2024 18:31:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Skeleton
+[10Dec2024 18:32:10.696] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:32:20.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Mutant Zombie
+[10Dec2024 18:33:17.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Skeleton
+[10Dec2024 18:33:23.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[10Dec2024 18:34:20.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Zombie Brute
