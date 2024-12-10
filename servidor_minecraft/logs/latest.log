@@ -911,3 +911,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Dec2024 18:18:10.306] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [10Dec2024 18:18:10.307] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [10Dec2024 18:19:22.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/flemmli97/improvedmobs/ai/util/ItemAI$ItemType
+[10Dec2024 18:20:56.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[10Dec2024 18:23:19.507] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:23:19.508] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[10Dec2024 18:23:27.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JanjoMaxter lost connection: Disconnected
+[10Dec2024 18:23:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter left the game
+[10Dec2024 18:23:27.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JanjoMaxter
+[10Dec2024 18:29:22.308] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63513b05
+[10Dec2024 18:29:22.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JanjoMaxter[/100.86.147.13:51292] logged in with entity id 1715 at (179.40917040742897, 86.0, -7.405578973154897)
+[10Dec2024 18:29:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter joined the game
+[10Dec2024 18:29:22.400] [Server thread/INFO] [Jade/]: Syncing config to JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38)
+[10Dec2024 18:29:22.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JanjoMaxter (18)
+[10Dec2024 18:29:22.771] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JanjoMaxter
+[10Dec2024 18:29:25.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2d59573-ab81-3221-9828-155fa365ba38
+[10Dec2024 18:29:26.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2d59573-ab81-3221-9828-155fa365ba38
+[10Dec2024 18:29:26.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38) successfully connected to voice chat
