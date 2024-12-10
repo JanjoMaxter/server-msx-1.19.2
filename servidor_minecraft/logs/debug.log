@@ -9651,3 +9651,26 @@ java.lang.Throwable: null
 [10Dec2024 18:34:20.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Zombie Brute
 [10Dec2024 18:35:28.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 18:35:28.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:40:28.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:40:28.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:41:57.162] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JanjoMaxter: {disabled=true, disconnected=false, uuid=a2d59573-ab81-3221-9828-155fa365ba38, name=JanjoMaxter, group=null}
+[10Dec2024 18:41:58.025] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JanjoMaxter: {disabled=false, disconnected=false, uuid=a2d59573-ab81-3221-9828-155fa365ba38, name=JanjoMaxter, group=null}
+[10Dec2024 18:42:13.541] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of JanjoMaxter: {disabled=false, disconnected=false, uuid=a2d59573-ab81-3221-9828-155fa365ba38, name=JanjoMaxter, group=4064930d-7c3f-462e-ae9a-97f26a320624}
+[10Dec2024 18:45:28.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:45:28.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:47:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Spider
+[10Dec2024 18:48:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Blister Zombie
+[10Dec2024 18:48:46.075] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:48:47.502] [Worker-Main-31/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Dec2024 18:48:47.525] [Worker-Main-31/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Dec2024 18:48:47.661] [Worker-Main-29/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[10Dec2024 18:48:48.803] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[10Dec2024 18:49:20.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[10Dec2024 18:49:20.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[10Dec2024 18:49:20.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 18:49:20.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 18:49:20.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 18:49:20.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 18:49:20.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 18:49:20.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[10Dec2024 18:49:20.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ruined_building/house

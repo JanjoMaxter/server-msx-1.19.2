@@ -941,3 +941,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Dec2024 18:33:17.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Skeleton
 [10Dec2024 18:33:23.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
 [10Dec2024 18:34:20.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Zombie Brute
+[10Dec2024 18:47:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Spider
+[10Dec2024 18:48:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Blister Zombie
+[10Dec2024 18:48:46.075] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:48:48.803] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[10Dec2024 18:49:20.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[10Dec2024 18:49:20.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
