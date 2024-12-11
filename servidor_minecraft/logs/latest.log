@@ -125,3 +125,131 @@
 [11Dec2024 00:14:55.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-30}
 [11Dec2024 00:14:56.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-29}
 [11Dec2024 00:14:57.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=108, z=-29}
+[11Dec2024 00:15:31.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-28}
+[11Dec2024 00:15:32.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-29}
+[11Dec2024 00:15:33.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-30}
+[11Dec2024 00:15:33.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:15:44.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=110, z=-28}
+[11Dec2024 00:15:45.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:15:45.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:15:45.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:15:46.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-30}
+[11Dec2024 00:15:46.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=110, z=-30}
+[11Dec2024 00:15:46.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-17, y=110, z=-29}
+[11Dec2024 00:15:46.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-29}
+[11Dec2024 00:15:46.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-17, y=110, z=-29}
+[11Dec2024 00:15:47.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-18, y=110, z=-28}
+[11Dec2024 00:15:47.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-17, y=109, z=-26}
+[11Dec2024 00:15:47.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-28}
+[11Dec2024 00:15:47.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-28}
+[11Dec2024 00:15:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by entity.hordes.HuskPlayer.chat
+[11Dec2024 00:16:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 has made the advancement [Inhospitable]
+[11Dec2024 00:16:29.742] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[11Dec2024 00:16:31.560] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:16:31.560] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:16:31.611] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40680396[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50499) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:16:35.234] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[11Dec2024 00:16:51.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[11Dec2024 00:16:51.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[11Dec2024 00:16:56.426] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[11Dec2024 00:17:23.407] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:17:23.407] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:17:23.408] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39bb2a5d[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50511) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:17:48.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[11Dec2024 00:17:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was blown up by Creeper
+[11Dec2024 00:17:51.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[11Dec2024 00:18:02.253] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ae958ed
+[11Dec2024 00:18:02.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JanjoMaxter[/100.86.147.13:57775] logged in with entity id 4105 at (5.5, 108.0, -1.5)
+[11Dec2024 00:18:02.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter joined the game
+[11Dec2024 00:18:02.322] [Server thread/INFO] [Jade/]: Syncing config to JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38)
+[11Dec2024 00:18:02.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JanjoMaxter (18)
+[11Dec2024 00:18:02.466] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JanjoMaxter
+[11Dec2024 00:18:04.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=108, z=1}
+[11Dec2024 00:18:04.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2d59573-ab81-3221-9828-155fa365ba38
+[11Dec2024 00:18:04.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=109, z=0}
+[11Dec2024 00:18:05.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2d59573-ab81-3221-9828-155fa365ba38
+[11Dec2024 00:18:05.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38) successfully connected to voice chat
+[11Dec2024 00:18:06.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=110, z=1}
+[11Dec2024 00:18:06.297] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:18:06.298] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:18:06.309] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3381ab77[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50520) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:18:06.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=109, z=1}
+[11Dec2024 00:18:07.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=110, z=0}
+[11Dec2024 00:18:07.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=110, z=1}
+[11Dec2024 00:18:07.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=110, z=0}
+[11Dec2024 00:18:07.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=110, z=0}
+[11Dec2024 00:18:09.949] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:18:09.949] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:18:09.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77fac451[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50521) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:18:13.295] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:18:13.296] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:18:13.306] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5be72167[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50522) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:18:15.906] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:18:15.906] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:18:15.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5717dd18[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50523) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:18:18.125] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:18:18.125] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:18:18.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cd72389[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50524) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:18:30.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was doomed to fall by Mutant Skeleton
+[11Dec2024 00:18:34.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[11Dec2024 00:18:37.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yrogerg9711 moved wrongly!
+[11Dec2024 00:18:39.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was shot by Mutant Skeleton
+[11Dec2024 00:18:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Mutant Skeleton
+[11Dec2024 00:18:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by Mutant Skeleton
+[11Dec2024 00:18:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Mutant Skeleton
+[11Dec2024 00:19:15.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was shot by Mutant Skeleton
+[11Dec2024 00:19:23.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=108, z=-1}
+[11Dec2024 00:19:24.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=109, z=-4}
+[11Dec2024 00:19:24.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=110, z=-4}
+[11Dec2024 00:19:24.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was slain by Zombie
+[11Dec2024 00:19:31.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=2}
+[11Dec2024 00:19:31.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=2}
+[11Dec2024 00:19:31.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=2}
+[11Dec2024 00:19:32.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=108, z=3}
+[11Dec2024 00:19:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by entity.hordes.HuskPlayer.chat
+[11Dec2024 00:19:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Mutant Skeleton
+[11Dec2024 00:19:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Creative Mode]
+[11Dec2024 00:20:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 fell from a high place
+[11Dec2024 00:20:06.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ttv/migami/jeg/item/attachment/IAttachment$Type
+[11Dec2024 00:20:08.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['yrogerg9711'/4364, l='ServerLevel[world]', x=0.35, y=109.80, z=7.29] died: entity.hordes.HuskPlayer.chat was annihilated by JanjoMaxter
+[11Dec2024 00:20:10.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['JanjoMaxter'/4414, l='ServerLevel[world]', x=2.18, y=102.00, z=16.19] died: entity.hordes.HuskPlayer.chat was doomed to fall by JanjoMaxter
+[11Dec2024 00:20:20.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['yrogerg9711'/4321, l='ServerLevel[world]', x=-4.87, y=101.61, z=15.71] died: entity.hordes.HuskPlayer.chat was decimated by JanjoMaxter
+[11Dec2024 00:20:22.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['yrogerg9711'/1591, l='ServerLevel[world]', x=0.83, y=102.00, z=22.95] died: entity.hordes.HuskPlayer.chat was eliminated by JanjoMaxter
+[11Dec2024 00:20:23.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['yrogerg9711'/3407, l='ServerLevel[world]', x=-3.91, y=101.91, z=26.68] died: entity.hordes.HuskPlayer.chat was eliminated by JanjoMaxter
+[11Dec2024 00:20:31.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['yrogerg9711'/4668, l='ServerLevel[world]', x=-7.01, y=101.61, z=21.06] died: entity.hordes.HuskPlayer.chat was eliminated by JanjoMaxter
+[11Dec2024 00:20:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by Zombie
+[11Dec2024 00:20:49.283] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:20:49.284] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:20:49.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cad4bb[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50559) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:21:06.369] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:21:06.369] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:21:06.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@523a3c8a[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50561) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:21:13.222] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:21:13.222] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:21:13.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2476c287[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50562) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:21:26.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['JanjoMaxter'/4338, l='ServerLevel[world]', x=-15.14, y=116.35, z=-57.70] died: entity.hordes.HuskPlayer.chat was annihilated by JanjoMaxter
+[11Dec2024 00:21:41.807] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:21:41.808] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:21:41.809] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a2dd84e[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50563) lost connection: Disconnected
+[11Dec2024 00:21:41.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 00:21:45.085] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:21:45.085] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:21:45.107] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2effb546[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50564) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:22:00.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yrogerg9711 was kicked for floating too long!
+[11Dec2024 00:22:00.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yrogerg9711 lost connection: Flying is not enabled on this server
+[11Dec2024 00:22:00.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 left the game
+[11Dec2024 00:22:00.658] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client yrogerg9711
+[11Dec2024 00:22:00.706] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 00:22:23.518] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a8caa74
+[11Dec2024 00:22:23.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yrogerg9711[/100.67.78.13:64740] logged in with entity id 5818 at (-58.661064422758315, 91.92159999847412, -68.41395768112386)
+[11Dec2024 00:22:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 joined the game
+[11Dec2024 00:22:23.599] [Server thread/INFO] [Jade/]: Syncing config to yrogerg9711 (1c10c070-268f-3672-9449-6d39207a5043)
+[11Dec2024 00:22:23.790] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of yrogerg9711 (18)
+[11Dec2024 00:22:23.790] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to yrogerg9711
+[11Dec2024 00:22:25.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1c10c070-268f-3672-9449-6d39207a5043
+[11Dec2024 00:22:26.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1c10c070-268f-3672-9449-6d39207a5043
+[11Dec2024 00:22:26.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player yrogerg9711 (1c10c070-268f-3672-9449-6d39207a5043) successfully connected to voice chat
+[11Dec2024 00:23:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> greg
+[11Dec2024 00:24:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yrogerg9711> QUE PASO
+[11Dec2024 00:24:33.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> donde estaa?
+[11Dec2024 00:24:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yrogerg9711> AL LADO DEL RIO
