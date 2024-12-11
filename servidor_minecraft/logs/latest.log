@@ -31,3 +31,97 @@
 [11Dec2024 00:04:01.230] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
 [11Dec2024 00:04:01.230] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [11Dec2024 00:04:01.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18db0b57[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50205) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:05:54.828] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:05:54.828] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:05:54.859] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39b40a3e[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50270) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:05:59.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/ai/DarkArtWitchGoal$Phase
+[11Dec2024 00:06:05.954] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:06:05.954] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:06:05.956] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6747d6c1[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50277) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:06:11.995] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:06:11.995] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:06:12.013] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e92bc3d[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50278) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:06:36.491] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:06:36.491] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:06:36.511] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59c70e46[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50287) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:06:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was shot by Skeleton
+[11Dec2024 00:07:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was doomed to fall by entity.hordes.HuskPlayer.chat
+[11Dec2024 00:07:53.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=110, z=-28}
+[11Dec2024 00:08:30.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by Enderman
+[11Dec2024 00:08:56.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yrogerg9711 moved wrongly!
+[11Dec2024 00:09:01.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=110, z=-3}
+[11Dec2024 00:09:05.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=108, z=-2}
+[11Dec2024 00:09:28.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['JanjoMaxter'/58, l='ServerLevel[world]', x=28.08, y=109.00, z=-1.18] died: entity.hordes.HuskPlayer.chat was slain by yrogerg9711
+[11Dec2024 00:10:00.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2aa2e745
+[11Dec2024 00:10:00.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JanjoMaxter[/100.86.147.13:57499] logged in with entity id 2193 at (206.66616408643569, 86.0, -9.905700621800456)
+[11Dec2024 00:10:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter joined the game
+[11Dec2024 00:10:00.934] [Server thread/INFO] [Jade/]: Syncing config to JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38)
+[11Dec2024 00:10:01.313] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JanjoMaxter (18)
+[11Dec2024 00:10:01.314] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JanjoMaxter
+[11Dec2024 00:10:03.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2d59573-ab81-3221-9828-155fa365ba38
+[11Dec2024 00:10:04.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2d59573-ab81-3221-9828-155fa365ba38
+[11Dec2024 00:10:04.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JanjoMaxter (a2d59573-ab81-3221-9828-155fa365ba38) successfully connected to voice chat
+[11Dec2024 00:10:05.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:05.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:05.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:05.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:05.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:05.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:06.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:06.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:06.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:06.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:06.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:06.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:07.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:08.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:09.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:09.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:09.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:09.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=110, z=-15}
+[11Dec2024 00:10:10.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=-15}
+[11Dec2024 00:10:10.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=-15}
+[11Dec2024 00:10:10.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=-15}
+[11Dec2024 00:10:10.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=-15}
+[11Dec2024 00:10:11.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=-15}
+[11Dec2024 00:10:11.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=109, z=-15}
+[11Dec2024 00:11:59.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 00:11:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> hey greg
+[11Dec2024 00:12:05.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> donde esta?
+[11Dec2024 00:12:23.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JanjoMaxter lost connection: Disconnected
+[11Dec2024 00:12:23.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter left the game
+[11Dec2024 00:12:23.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JanjoMaxter
+[11Dec2024 00:12:59.301] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:12:59.301] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:12:59.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fbd53ed[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50432) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:13:10.042] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[11Dec2024 00:13:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by entity.hordes.HuskPlayer.chat
+[11Dec2024 00:13:35.532] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:13:35.533] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:13:35.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@166eaad[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50447) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:13:53.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:14:04.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=112, z=-28}
+[11Dec2024 00:14:27.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-29}
+[11Dec2024 00:14:45.225] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:14:45.225] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:14:45.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73c2f192[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50487) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:14:52.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=108, z=-28}
+[11Dec2024 00:14:52.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-29}
+[11Dec2024 00:14:52.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-30}
+[11Dec2024 00:14:53.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:14:55.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=109, z=-29}
+[11Dec2024 00:14:55.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=109, z=-30}
+[11Dec2024 00:14:56.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=109, z=-29}
+[11Dec2024 00:14:57.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=108, z=-29}

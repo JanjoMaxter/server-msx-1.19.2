@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:43:35 +0000"
@@ -286,6 +298,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
     },
     "done": true
   },
@@ -616,6 +634,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2024-12-05 22:40:34 +0000",
+      "minecraft:river": "2024-12-11 00:06:49 +0000",
       "minecraft:savanna": "2024-12-05 22:39:57 +0000"
     },
     "done": false
@@ -638,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
@@ -647,6 +672,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
     },
     "done": true
   },
@@ -689,6 +720,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
     },
     "done": true
   },
@@ -749,6 +786,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/black_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
     },
     "done": true
   },
@@ -924,6 +967,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 00:06:46 +0000"
     },
     "done": true
   },
