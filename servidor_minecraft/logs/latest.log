@@ -320,3 +320,10 @@
 [11Dec2024 01:05:04.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
 [11Dec2024 01:05:04.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
 [11Dec2024 01:05:04.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[11Dec2024 01:14:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was shot by Mutant Skeleton
+[11Dec2024 01:14:58.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by Mutant Creeper
+[11Dec2024 01:15:16.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Mutant Skeleton
+[11Dec2024 01:15:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 fell from a high place
+[11Dec2024 01:15:36.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=7}
+[11Dec2024 01:15:36.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=7}
+[11Dec2024 01:15:36.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=7}

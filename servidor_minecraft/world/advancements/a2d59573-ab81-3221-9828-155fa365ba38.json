@@ -1729,6 +1729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-11 01:14:38 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2024-11-12 06:19:11 +0000"
@@ -4512,6 +4518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-11 01:14:09 +0000"
+    },
+    "done": true
+  },
   "stabxmodernguns:recipes/stabxmodernguns/m60": {
     "criteria": {
       "has_black_dye": "2024-11-12 06:19:11 +0000"
@@ -4899,6 +4911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-11 01:14:09 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/schwarzlose": {
     "criteria": {
       "has_oak_planks": "2024-12-05 22:53:29 +0000"
@@ -5233,6 +5251,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-05 22:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-11 01:14:38 +0000"
     },
     "done": true
   },

@@ -14948,3 +14948,14 @@ java.lang.Throwable: null
 [11Dec2024 01:05:04.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
 [11Dec2024 01:05:25.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 01:05:25.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:10:25.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:10:25.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:14:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was shot by Mutant Skeleton
+[11Dec2024 01:14:58.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by Mutant Creeper
+[11Dec2024 01:15:16.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter was shot by Mutant Skeleton
+[11Dec2024 01:15:25.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:15:25.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:15:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 fell from a high place
+[11Dec2024 01:15:36.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=7}
+[11Dec2024 01:15:36.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=7}
+[11Dec2024 01:15:36.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=108, z=7}
