@@ -253,3 +253,22 @@
 [11Dec2024 00:24:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yrogerg9711> QUE PASO
 [11Dec2024 00:24:33.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> donde estaa?
 [11Dec2024 00:24:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yrogerg9711> AL LADO DEL RIO
+[11Dec2024 00:25:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 has made the advancement [Unpleasant Sucking]
+[11Dec2024 00:25:30.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Teleported JanjoMaxter to yrogerg9711]
+[11Dec2024 00:25:43.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> tiene el mic qutado
+[11Dec2024 00:26:08.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yrogerg9711> MM
+[11Dec2024 00:27:00.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yrogerg9711> R
+[11Dec2024 00:28:29.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JanjoMaxter> yo le hablo
+[11Dec2024 00:31:38.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 has made the advancement [Monster Hunter]
+[11Dec2024 00:32:45.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=65, z=0} BlockPos{x=-24, y=65, z=21}
+[11Dec2024 00:32:46.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=64, z=20} BlockPos{x=-25, y=64, z=20}
+[11Dec2024 00:32:46.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=63, z=20} BlockPos{x=-25, y=63, z=21}
+[11Dec2024 00:32:51.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=63, z=20} BlockPos{x=-25, y=63, z=21}
+[11Dec2024 00:32:53.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Teleported 2 entities to JanjoMaxter]
+[11Dec2024 00:33:29.596] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['JanjoMaxter'/55, l='ServerLevel[world]', x=119.49, y=123.00, z=-7.70] died: entity.hordes.HuskPlayer.chat was slain by yrogerg9711
+[11Dec2024 00:35:01.311] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:35:01.311] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:35:01.357] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c8d93c3[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49813) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:35:15.136] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:35:15.137] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:35:15.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17f512b7[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49832) lost connection: Connection closed - mismatched mod channel list
