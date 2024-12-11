@@ -272,3 +272,34 @@
 [11Dec2024 00:35:15.136] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
 [11Dec2024 00:35:15.137] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [11Dec2024 00:35:15.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17f512b7[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49832) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:35:20.497] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:35:20.497] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:35:20.519] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f19e28d[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49833) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:35:23.233] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:35:23.233] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:35:23.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@529ac800[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49834) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:35:48.430] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:35:48.430] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:35:48.458] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a5d89d7[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49847) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:35:57.995] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:35:57.996] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:35:58.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fbd46c6[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49848) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:40:37.683] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:40:37.684] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:40:37.707] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fd96f9[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49921) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:40:41.746] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:40:41.746] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:40:41.764] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1374f18c[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:49922) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:42:08.975] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:42:08.976] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:42:09.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@786b8972[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50065) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:42:55.240] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:42:55.241] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:42:55.259] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f85068[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50073) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:45:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Survival Mode]
+[11Dec2024 00:47:56.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Creative Mode]
+[11Dec2024 00:48:58.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 has made the advancement [Stone Age]
+[11Dec2024 00:49:19.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 has made the advancement [Getting an Upgrade]
+[11Dec2024 00:49:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Survival Mode]
+[11Dec2024 00:50:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Creative Mode]
+[11Dec2024 00:50:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Survival Mode]

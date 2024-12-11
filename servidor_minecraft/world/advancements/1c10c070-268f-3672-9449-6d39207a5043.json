@@ -29,9 +29,27 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/black_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -215,6 +233,18 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-11 00:49:19 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/advanced_bullet": {
     "criteria": {
       "has_gunpowder": "2024-12-05 22:58:41 +0000"
@@ -277,6 +307,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 00:49:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:43 +0000"
@@ -298,6 +334,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_cooler": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-11 00:42:50 +0000"
     },
     "done": true
   },
@@ -328,6 +370,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -381,7 +429,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2024-12-11 00:13:09 +0000"
+      "mutton": "2024-12-11 00:13:09 +0000",
+      "enchanted_golden_apple": "2024-12-11 00:30:45 +0000"
     },
     "done": false
   },
@@ -397,6 +446,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
@@ -406,6 +461,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/lattice": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -427,9 +488,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-11 00:38:34 +0000"
     },
     "done": true
   },
@@ -583,9 +662,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/acacia": {
     "criteria": {
       "has_planks": "2024-12-05 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -616,6 +707,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -670,6 +767,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-11 00:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 00:51:37 +0000"
     },
     "done": true
   },
@@ -769,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_drawer": {
     "criteria": {
       "has_acacia_planks": "2024-12-11 00:10:42 +0000"
@@ -811,9 +920,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-11 00:31:38 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2024-12-05 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -826,6 +947,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -844,6 +971,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -886,6 +1019,12 @@
   "betteranimalsplus:lamprey_succ": {
     "criteria": {
       "lamprey_succ": "2024-12-11 00:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-11 00:49:19 +0000"
     },
     "done": true
   },
@@ -967,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 00:51:37 +0000"
+    },
+    "done": true
+  },
   "jeg:recipes/jeg/workbench": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:42 +0000"
@@ -1000,6 +1145,12 @@
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2024-12-05 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -1129,6 +1280,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-05 22:43:38 +0000"
@@ -1219,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_lattice_fence_gate": {
     "criteria": {
       "has_acacia_planks": "2024-12-11 00:10:43 +0000"
@@ -1252,6 +1415,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-05 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -1417,6 +1586,12 @@
     },
     "done": true
   },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-12-11 00:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-05 22:40:44 +0000"
@@ -1432,6 +1607,24 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 00:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-11 00:31:38 +0000"
     },
     "done": true
   },
@@ -1477,6 +1670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "moguns:weapons/root": {
     "criteria": {
       "tick": "2024-12-05 22:39:56 +0000"
@@ -1492,6 +1691,12 @@
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 00:49:19 +0000"
     },
     "done": true
   },
@@ -1542,6 +1747,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "stabxmodernguns:recipes/stabxmodernguns/ak47": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:43 +0000"
@@ -1554,9 +1771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
@@ -1590,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
@@ -1605,6 +1840,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 00:49:19 +0000"
     },
     "done": true
   },
@@ -1683,6 +1924,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-11 00:30:42 +0000"
     },
     "done": true
   },
@@ -1780,6 +2027,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 00:48:58 +0000"
     },
     "done": true
   },
