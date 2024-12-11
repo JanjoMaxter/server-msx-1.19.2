@@ -303,3 +303,20 @@
 [11Dec2024 00:49:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Survival Mode]
 [11Dec2024 00:50:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Creative Mode]
 [11Dec2024 00:50:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JanjoMaxter: Set own game mode to Survival Mode]
+[11Dec2024 00:57:58.669] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [hordes:infection] rejected their client side version number
+[11Dec2024 00:57:58.670] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 00:57:58.714] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f1c1adf[id=<null>,name=DarkZenoxx,properties={},legacy=false] (/100.87.155.8:50107) lost connection: Connection closed - mismatched mod channel list
+[11Dec2024 00:58:25.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 has made the advancement [Not Today, Thank You]
+[11Dec2024 00:58:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JanjoMaxter has made the advancement [Not Today, Thank You]
+[11Dec2024 01:00:36.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
+[11Dec2024 01:00:40.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
+[11Dec2024 01:00:40.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[11Dec2024 01:01:29.395] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[11Dec2024 01:02:43.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by Enderman
+[11Dec2024 01:02:51.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=109, z=-1}
+[11Dec2024 01:04:29.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[11Dec2024 01:04:30.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yrogerg9711 was slain by entity.hordes.HuskPlayer.chat
+[11Dec2024 01:05:04.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[11Dec2024 01:05:04.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[11Dec2024 01:05:04.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[11Dec2024 01:05:04.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy

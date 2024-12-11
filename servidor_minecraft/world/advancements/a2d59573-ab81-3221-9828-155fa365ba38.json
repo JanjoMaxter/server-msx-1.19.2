@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-11 00:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:59:01 +0000"
@@ -1132,6 +1138,12 @@
   "stabxmodernguns:recipes/stabxmodernguns/30_60_springfield_cartridge": {
     "criteria": {
       "has_gunpowder": "2024-12-10 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-11 01:02:56 +0000"
     },
     "done": true
   },
@@ -1693,6 +1705,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-11 01:02:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-05 22:47:22 +0000"
@@ -1858,6 +1876,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-11 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2024-12-11 01:03:31 +0000"
     },
     "done": true
   },
@@ -3834,6 +3858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-11 01:02:56 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2024-12-05 22:53:29 +0000"
@@ -5452,6 +5482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-11 01:02:56 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_long": {
     "criteria": {
       "has_iron_nugget": "2024-12-10 02:54:05 +0000"
@@ -5533,6 +5569,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-10 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-11 01:03:31 +0000"
     },
     "done": true
   },

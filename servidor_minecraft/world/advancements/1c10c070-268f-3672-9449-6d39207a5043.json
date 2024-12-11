@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-11 00:13:04 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -343,6 +355,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_toilet": {
     "criteria": {
       "has_acacia_planks": "2024-12-11 00:10:43 +0000"
@@ -364,6 +382,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -518,6 +542,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/wrench": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_acacia_planks": "2024-12-11 00:10:42 +0000"
@@ -569,6 +599,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-11 00:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -674,6 +710,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-11 00:58:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-11 00:48:58 +0000"
@@ -722,6 +764,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-12-05 22:39:56 +0000"
@@ -749,6 +797,12 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-11 00:12:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/spatula": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -872,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-11 00:48:58 +0000"
@@ -922,7 +982,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2024-12-11 00:31:38 +0000"
+      "minecraft:skeleton": "2024-12-11 00:59:22 +0000",
+      "minecraft:spider": "2024-12-11 00:58:03 +0000",
+      "minecraft:creeper": "2024-12-11 00:31:38 +0000",
+      "minecraft:phantom": "2024-12-11 00:58:29 +0000",
+      "minecraft:zombie": "2024-12-11 00:58:40 +0000"
     },
     "done": false
   },
@@ -998,6 +1062,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_gunpowder": "2024-12-05 22:58:41 +0000"
@@ -1043,6 +1113,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -1178,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "stabxmodernguns:recipes/stabxmodernguns/45acp": {
     "criteria": {
       "has_copper_ingot": "2024-12-05 22:39:56 +0000"
@@ -1202,15 +1284,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/black_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:42 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/knife": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -1247,6 +1347,12 @@
   "projectarsenal:recipes/projectarsenal/mossou": {
     "criteria": {
       "has_gunpowder": "2024-12-05 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/green_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -1346,9 +1452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-11 00:58:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-11 00:58:25 +0000"
     },
     "done": true
   },
@@ -1406,6 +1524,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-11 00:23:06 +0000"
@@ -1445,6 +1569,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2024-12-11 00:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -1568,6 +1698,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
     "criteria": {
       "has_log": "2024-12-05 22:40:44 +0000"
@@ -1676,6 +1818,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "moguns:weapons/root": {
     "criteria": {
       "tick": "2024-12-05 22:39:56 +0000"
@@ -1710,6 +1858,12 @@
       "minecraft:plains": "2024-12-11 00:16:24 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
   },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
     "criteria": {
@@ -1780,6 +1934,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_stool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
     },
     "done": true
   },
@@ -1939,6 +2099,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
       "has_gunpowder": "2024-12-05 22:58:41 +0000"
@@ -1960,6 +2126,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_light_ceiling_fan": {
     "criteria": {
       "has_acacia_planks": "2024-12-11 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2024-12-11 01:02:06 +0000"
     },
     "done": true
   },
@@ -2006,6 +2178,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-11 00:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
@@ -2045,6 +2223,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-05 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2024-12-11 00:58:15 +0000"
     },
     "done": true
   },
